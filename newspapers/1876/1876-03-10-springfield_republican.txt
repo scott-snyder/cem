@@ -1,0 +1,12 @@
+Name: 1876-03-10-springfield_republican.txt
+Date: 1876-03-10
+Paper: Springfield weekly Republican
+Paperkey: springfield_republican
+Page: 8
+City: springfield
+State: MA massachusetts
+Url: http://www.loc.gov/resource/sn83020847/1876-03-10/ed-1/?sp=8
+Title: 
+Author: 
+---
+Yung Wing says he is going to send Yale college 115 more students from China.

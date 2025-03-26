@@ -1,0 +1,18 @@
+Name: 1885-01-02-springfield_republican.txt
+Date: 1885-01-02
+Paper: Springfield weekly Republican
+Paperkey: springfield_republican
+Page: 8
+City: springfield
+State: MA massachusetts
+Url: http://www.loc.gov/resource/sn83020847/1885-01-02/ed-1/?sp=8
+Title: 
+Author: 
+---
+
+A New Haven paper in speaking of the Yale college composition prizes
+lately awarded, the first of which was taken by Yan Phou Lee, a
+Springfield Chinese student, says that his victory suggests the
+excellence in English which has distinguished the Yale men from China
+since the time when Yung Wing took several of the earlier prizes and
+one of the Townsend medals.
