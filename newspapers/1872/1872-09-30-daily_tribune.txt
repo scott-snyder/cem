@@ -1,0 +1,19 @@
+Name: 1872-09-30-daily_tribune.txt
+Date: 1872-09-30
+Paper: New York Daily Tribune
+Paperkey: daily_tribune
+Page: 
+City: new york
+State: NY new york
+Url: 
+Title: 
+Author:
+Note: Quoted in Robyn, 19
+---
+
+ The thirty Chinese students who arrived yesterday are very young. They
+are fine intelligent ladies and gentlemen and have much fairer complexion
+than any of their countrymen who have heretofore visited the United
+States. Three tutors of the Mandarin rank accompany them. The Chinese
+government appropriated $1,000,000 for their education.
+

@@ -5,17 +5,28 @@ import os
 import glob
 
 
-states = {'connecticut'   : 'CT',
+states = {'arizona'       : 'AZ',
+          'colorado'      : 'CO',
+          'connecticut'   : 'CT',
           'delaware'      : 'DE',
           'hawaii'        : 'HI',
           'indiana'       : 'IN',
+          'iowa'          : 'IA',
           'louisiana'     : 'LA',
           'maine'         : 'ME',
+          'maryland'      : 'MD',
           'massachusetts' : 'MA',
+          'minnesota'     : 'MN',
+          'missouri'      : 'MO',
+          'nebraska'      : 'NE',
+          'nevada'        : 'NV',
           'new hampshire' : 'NH',
           'new york'      : 'NY',
+          'oregon'        : 'OR',
           'pennsylvania'  : 'PA',
           'virginia'      : 'VA',
+          'washington'    : 'WA',
+          'wyoming'       : 'WY',
           }
 
 
@@ -30,8 +41,10 @@ def read_papers():
         elif inpapers:
             if not l: break
             fields = l.split (None, 1)
+            paper = fields[1]
+            paper = paper.split(';')[0].strip()
             if len(fields) == 2:
-                d[fields[1]] = fields[0]
+                d[paper] = fields[0]
     return d
 
 

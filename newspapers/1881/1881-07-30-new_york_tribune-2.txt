@@ -1,0 +1,13 @@
+Name: 1881-07-30-new_york_tribune-2.txt
+Date: 1881-07-30
+Paper: New-York tribune.
+Paperkey: new_york_tribune
+Page: 4
+City: new york
+State: NY new york
+Url: http://www.loc.gov/resource/sn83030214/1881-07-30/ed-1/?sp=4
+Title: 
+Author: 
+---
+
+Reasons are given for the withdrawal of the Chinese Educational Mission
