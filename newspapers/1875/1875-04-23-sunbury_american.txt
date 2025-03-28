@@ -1,0 +1,14 @@
+Name: 1875-04-23-sunbury_american.txt
+Date: 1875-04-23
+Paper: Sunbury American.
+Paperkey: sunbury_american
+Page: 3
+City: sunbury
+State: PA pennsylvania
+Url: http://www.loc.gov/resource/sn84026403/1875-04-23/ed-1/?sp=3
+Title: Scribner for May
+Author: 
+---
+
+"Yung Wing and His Work" tells about the Chinese Educational Mission,
+and its devoted originator.

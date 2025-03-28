@@ -1,0 +1,15 @@
+Name: 1881-07-15-indianapolis_news.txt
+Date: 1881-07-15
+Paper: Indianapolis News
+Paperkey: indianapolis_news
+Page: 5
+City: indianapolis
+State: IN indiana
+Url: 
+Title: 
+Author: 
+---
+
+The hundred and fifty boys at various schools in this country who
+comprise the Chinese educational mission, have been ordered home and
+the mission will be abolished.

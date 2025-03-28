@@ -6,10 +6,14 @@ import glob
 
 
 states = {'arizona'       : 'AZ',
+          'california'    : 'CA',
           'colorado'      : 'CO',
           'connecticut'   : 'CT',
           'delaware'      : 'DE',
+          'district of columbia' : 'DC',
+          'georgia'       : 'GA',
           'hawaii'        : 'HI',
+          'illinois'      : 'IL',
           'indiana'       : 'IN',
           'iowa'          : 'IA',
           'louisiana'     : 'LA',
@@ -24,6 +28,8 @@ states = {'arizona'       : 'AZ',
           'new york'      : 'NY',
           'oregon'        : 'OR',
           'pennsylvania'  : 'PA',
+          'tennessee'     : 'TN',
+          'vermont'       : 'VT',
           'virginia'      : 'VA',
           'washington'    : 'WA',
           'wyoming'       : 'WY',
@@ -34,6 +40,7 @@ def read_papers():
     f = open ('../LIST')
     d = {}
     inpapers = False
+    keys = set()
     for l in f.readlines():
         l = l.strip()
         if l == 'PAPERS':
@@ -45,6 +52,8 @@ def read_papers():
             paper = paper.split(';')[0].strip()
             if len(fields) == 2:
                 d[paper] = fields[0]
+                if fields[0] in keys:
+                    print ('duplicate key', fields[0], paper)
     return d
 
 

@@ -1,0 +1,14 @@
+Name: 1875-04-24-portland_press.txt
+Date: 1875-04-24
+Paper: The Portland daily press
+Paperkey: portland_press
+Page: 2
+City: portland
+State: ME maine
+Url: http://www.loc.gov/resource/sn83016025/1875-04-24/ed-1/?sp=2
+Title: 
+Author: 
+---
+
+Yung Wing and His Work tells about the Chinese Educational Mission,
+aud its devoted originator.

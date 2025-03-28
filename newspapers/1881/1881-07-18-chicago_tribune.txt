@@ -1,0 +1,24 @@
+Name: 1881-07-18-chicago_tribune.txt
+Date: 1881-07-18
+Paper: Chicago daily tribune.
+Paperkey: chicago_tribune
+Page: 2
+City: chicago
+State: IL illinois
+Url: http://www.loc.gov/resource/sn84031492/1881-07-18/ed-1/?sp=2
+Title: 
+Author: 
+---
+
+News is received from the Chinese legation of a backward step in the
+Chinese Empire. The Chinese students in this country are to be
+recalled, and the large Chinese Educational Commission located at
+Hartford is to be abolished for the reason, it is supposed, that the
+Home Government of China fears the liberalizing influence of
+civilization. It is believed that the fear that the Chinese students
+would, outside of their regular studies, receive views which would not
+be of advantage to the Chinese Empire is one of the controlling
+reasons for this action. Young Wing, the head of the Educational
+Commission, has an American wife, and is very thoroughly American in
+his motions. His advanced views, it is feared, are no longer
+acceptable to the Home Government.

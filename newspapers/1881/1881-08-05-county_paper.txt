@@ -1,0 +1,17 @@
+Name: 1881-08-05-county_paper.txt
+Date: 1881-08-05
+Paper: The County paper.
+Paperkey: county_paper
+Page: 2
+City: oregon
+State: MO missouri
+Url: http://www.loc.gov/resource/sn90061416/1881-08-05/ed-1/?sp=2
+Title: 
+Author: 
+---
+
+Late advices from China indicate the recall of tho Chinese Educational
+Mission established in Hartford, Conn., in 1872. The cause of this
+action is not clearly understood, but it is expected the boys will
+soon start for home. There are about 100 now studying in this country,
+of whom 60 are in colleges or technical schools.

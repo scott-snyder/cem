@@ -12,7 +12,7 @@ stauntin_spectator     Staunton spectator
 indiana_sentinel       The Indiana State sentinel
 opelousas_courier      The Opelousas courier.
 portland_press         The Portland daily press
-centre_democrat        Centre Democrat.
+centre_democrat        Centre Democrat.                    ; PA bellefonte
 willimantic_journal    The Willimantic journal
 nyt                    The New York Times                  ; NY new york
 no_republican          New Orleans Republican              ; LA new orleans
@@ -33,6 +33,49 @@ daily_astorian         The Daily Astorian                  ; OR astoria
 eureka_daily_sentinel  Eureka daily sentinel.              ; NV nevada
 oakland_republican     The Republican.                     ; MD maryland
 daily_leader           The Cheyenne daily leader           ; WY cheyenne
+weekly_leader          Cheyenne Weekly leader              ; WY cheyenne
+lancaster_intelligencer Lancaster daily intelligencer.     ; PA lancaster
+county_paper           The County paper.                   ; MO oregon
+daily_republican       Daily Republican                    ; DE wilmington
+national_republican    National Republican.                ; DC washington
+chillicothe_crisis     Weekly Chillicothe crisis.          ; MO chillicothe
+vermont_phoenix        "Vermont ph\u0153nix."              ; VT brattleboro
+evening_star           Evening star.                       ; DC washington
+savannah_morning_news  Savannah morning news               ; GA georgia
+chicago_tribune        Chicago daily tribune.              ; IL chicago
+belleville_telescope   Belleville Telescope                ; KS belleville
+the_star               The Star                            ; OH cincinnati
+hawk_eye_gazette       Burlington Daily Hawk Eye Gazette   ; IA burlington
+baltimore_sun          Baltimore Sun                       ; MD baltimore
+geneseo_sun            Geneseo Sun                         ; IL geneseo
+colorado_springs_gaz   Colorado Springs Gazette            ; CO colorado springs
+cleveland_leader       The Cleveland Leader                ; OH cleveland
+morgan_republican      Martinsville Morgan County Republican;IN Martinsville
+indianapolis_news      Indianapolis News                   ; IN indianapolis
+cairo_bulletin         The Cairo bulletin                  ; IL cairo
+deseret_news           Salt Lake City Deseret News         ; UT salt lake city
+janesville_gazette     Janesville Gazette                  ; WI janesville
+philadelphia_times     Philadelphia Times                  ; PA philadelphia
+madison_state_journal  Madison Wisconsin State Journal     ; WI madison
+cincinnati_commercial  Cincinnati Commercial               ; OH cincinnati
+indianapolis_journal   Indianapolis Journal                ; IN indianapolis
+steubenville_herald    Steubenville Daily Herald and News  ; OH steubenville
+sandusky_register      Sandusky Daily Register             ; OH sandusky
+ogden_junction         Ogden Junction                      ; UT ogden
+boston_post            Boston Post                         ; MA boston
+quincy_daily_herald    Quincy Daily Herald                 ; IL quincy
+quincy_daily_whig      Quincy Daily Whig                   ; IL quincy
+salt_lake_tribune      Salt Lake Daily Tribune             ; UT salt lake city
+chester_daily_times    Chester Daily Times                 ; PA chester
+alexandria_gazette     Alexandria gazette                  ; VA alexandria
+memphis_daily_appeal   Memphis daily appeal.               ; TN tennessee
+sunbury_american       Sunbury American.                   ; PA sunbury
+toledo_chronicle       The Toledo chronicle.               ; IA toledo
+aegis_intelligencer    The aegis & intelligencer.          ; MD bel air
+new_york_sun           The sun.                            ; NY new york
+sacramentio_union      Sacramento daily record-union       ; CA sacramento
+knoxville_chronicle    Knoxville daily chronicle.          ; TN knoxville
+
 
 
 == 1872 ======================================================================
@@ -44,6 +87,7 @@ Welcome and rules of instruction
   1872-10-18-springfield_republican.txt *
 
 yung wing and cem
+  1872-10-21-the_star.txt
   1872-12-11-hawaiian_gazette.txt *
 
 
@@ -65,20 +109,40 @@ CEM introduction
 Arrival of third detachment
   1874-08-24-worchester_spy.txt
   1874-08-28-springfield_republican.txt
+  1874-11-03-hawk_eye_gazette.txt
+  1874-11-11-deseret_news.txt
 
 two students admitted to yale
   1874-11-14-arizona_central.txt
   1874-10-30-herald_and_mail.txt
 
+yung wing son graduating from wilbraham academy
+  chron/1874-06-26-springfield-massachusetts-Springfield_Republican/
+
 
 == 1875 ======================================================================
 
+chan laisun letter
+  1875-02-26-steubenville_herald.txt
+
 scribner article on YW
   1875-04-23-state_journal.txt
+  1875-04-21-cairo_bulletin.txt
+  1875-04-23-quincy_daily_herald.txt
+  1875-04-19-alexandria_gazette.txt
+  1875-04-21-memphis_daily_appeal.txt
+  1875-04-23-sunbury_american.txt
+  1875-04-24-portland_press.txt
+  1875-04-29-toledo_chronicle.txt
+  1875-04-30-aegis_intelligencer.txt
 
 Arrival of fourth detachment
   1875-11-26-springfield_republican.txt
   1875-12-03-springfield_republican.txt
+
+twichell talk at yale
+  1875-11-25-cleveland_leader.txt
+  1875-11-24-janesville_gazette.txt
 
 
 == 1876 ======================================================================
@@ -92,16 +156,39 @@ centennial visit
   1876-09-02-washington_standard.txt
 
 
+== 1877 ======================================================================
+
+advertisement for tutor who worked for y.w.
+  1877-08-24-willimantic_journal.txt
+
+
 == 1878 ======================================================================
 
 Hartford HS graduation, one CEM student mentioned Tun Yen Liang
   1878-04-26-springfield_republican.txt
+
+new commissioner
+  1878-07-29-baltimore_sun.txt
+  1878-08-30-cincinnati_commercial.txt
+
+embassy visit.  y.w. americanized
+  1878-09-19-new_york_sun.txt
+
+students from columbia
+  1878-04-17-new_york_tribune.txt
 
 
 == 1879 ======================================================================
 
 chinese new year
   1879-01-24-springfield_republican.txt
+
+Kwong Ki Chin on chinese immigration
+  1879-03-26-sandusky_register.txt
+
+Ngau returning
+  1879-04-30-deseret_news.txt
+  1879-04-22-salt_lake_tribune.txt
 
 Chinese Christian home mission
   1879-04-03-nh_patriot.txt
@@ -117,6 +204,9 @@ Students at williston buying suit to tweak classmates
 Gift of history of China to museum from CEM student
   1879-09-16-portland_press.txt
 
+???
+  1879-03-26-ogden_junction.txt
+
 
 == 1880 ======================================================================
 
@@ -126,11 +216,19 @@ Williston graduation, with several mentions of CEM students
 Yung Kwai escape
   1880-09-03-springfield_republican.txt
 
+arrival of commissioner wu
+  1880-10-31-madison_state_journal.txt
+  1880-02-19-sacramentio_union.txt
+
 
 == 1881 ======================================================================
 
 recall
   1881-10-02-daily_globe.txt
+
+Kin Ta Ting on recall
+  1881-10-20-morgan_republican.txt
+  1881-09-30-boston_post.txt
 
 reasons for recall
   1881-08-05-springfield_republican-2.txt
@@ -138,19 +236,40 @@ reasons for recall
   1881-07-30-new_york_tribune-2.txt
   1881-08-08-rock_island_argus.txt
   1881-09-02-nyt.txt
+  1881-08-24-philadelphia_times.txt
 
 recall announcement
   1881-07-15-daily_globe.txt
   1881-07-15-daily_leader.txt
+  1881-07-15-lancaster_intelligencer.txt
+  1881-07-15-daily_republican.txt
+  1881-07-15-national_republican.txt
+  1881-07-15-evening_star.txt
+  1881-07-15-portland_press.txt
+  1881-07-15-new_york_tribune.txt
+  1881-07-15-baltimore_sun.txt
+  1881-07-15-indianapolis_news.txt
+  1881-07-15-indianapolis_journal.txt
+  1881-07-15-chester_daily_times.txt
+  1881-07-15-boston_post.txt
+  1881-07-16-colorado_springs_gaz.txt
   1881-07-16-daily_intelligencer.txt
   1881-07-16-eureka_daily_sentinel.txt
+  1881-07-18-savannah_morning_news.txt
+  1881-07-21-weekly_leader.txt
   1881-07-21-litchfield_enquirer.txt
+  1881-07-21-chillicothe_crisis.txt
+  1881-07-21-belleville_telescope.txt
   1881-07-22-corvallis_gazette-2.txt
   1881-07-23-oakland_republican.txt
+  1881-08-05-county_paper.txt
 
-recall annoucement w/mention of boys being americanized
+
+recall announcement w/mention of boys being americanized
+  1881-07-18-chicago_tribune.txt
   1881-07-22-corvallis_gazette.txt
   1881-07-27-daily_astorian.txt
+  1881-07-22-vermont_phoenix.txt
 
 recall and racism
   1881-09-01-centre_democrat.txt
@@ -158,7 +277,19 @@ recall and racism
 
 students traveling back to china
   1881-08-05-springfield_republican.txt
+  1881-08-09-chicago_tribune.txt
   1881-08-26-springfield_republican.txt
+
+aptness of scholars
+  1881-10-26-geneseo_sun.txt
+
+kwong's dictionary
+  1881-06-27-quincy_daily_whig.txt
+  1881-03-16-philadelphia_times.txt
+  1881-03-10-lancaster_intelligencer.txt
+  1881-03-27-knoxville_chronicle.txt
+  1881-04-23-chicago_tribune.txt
+  1881-08-26-springfield_republican-2.txt
 
 
 == 1882 ======================================================================
@@ -211,60 +342,22 @@ comments on chinese conservatatism
 
 ==============================================================================
 
-yung wing son graduating from wilbraham academy
-  chron/1874-06-26-springfield-massachusetts-Springfield_Republican/
-
-third delegation arrives.  students doing well.
-  chron/1874-08-24-worcester-massachusetts-Worcester_spy/
-
-scribner's yung wing article
-  chron/1875-04-19-alexandria-virginia-Alexandria_gazette_and_Virginia_advertiser/
-  chron/1875-04-21-cairo-illinois-Cairo_daily_bulletin/
-  chron/1875-04-21-memphis-tennessee-Sunday_appeal/
-  chron/1875-04-23-jefferson_city-missouri-the_state_journal/
-  chron/1875-04-23-sunbury-pennsylvania-sunbury_american/
-  chron/1875-04-24-portland-maine-the_portland_daily_press/
-  chron/1875-04-29-toledo-iowa-the_toledo_chronicle/
-  chron/1875-04-30-bel_air-maryland-Aegis_and_intelligencer/
-
-advertisement for tutor who worked for y.w.
-  chron/1877-08-24-willimantic-connecticut-Willimantic_weekly_journal/
-
-columbia setting up something resembling CEM
-  chron/1878-04-17-new_york-new_york-Combined_New_York_morning_newspapers/
-
-embassy visit.  y.w. americanized
-  chron/1878-09-19-new_york-new_york-New_York_sun **
-
-new commissioner
-  chron/1880-02-19-sacramento-california-Sacramento_Sunday_union/
-
-dictionary
-  chron/1881-03-10-lancaster-pennsylvania-Lancaster_intelligencer/
-  chron/1881-03-27-knoxville-tennessee-Knoxville_chronicle/  (review)
-  chron/1881-04-23-chicago-illinois-Chicago_tribune/
-  chron/1881-08-26-springfield-massachusetts-Springfield_Republican/
-
-recall announcement
-  chron/1881-07-15-lancaster-pennsylvania-Lancaster_intelligencer/
-  chron/1881-07-15-portland-maine-the_portland_daily_press/
-  chron/1881-07-15-washington-district_of_columbia-National_daily_Republican/
-  chron/1881-07-15-washington-district_of_columbia-Sunday_star/
-  chron/1881-07-15-wilmington-delaware-daily_republican/
-  chron/1881-07-18-savannah-georgia-Morning_morning_news/
-  chron/1881-07-21-chillicothe-missouri-weekly_chillicothe_crisis/
-  chron/1881-08-05-oregon-missouri-the_county_paper/
-
-recall annoucement w/mention of boys being americanized
-  chron/1881-07-22-brattleboro-vermont-Vermont_phoenix_and_Vermont_republican
-
-reasons for recall
-  chron/1881-07-31-new_york-new_york-Combined_New_York_morning_newspapers (dup)
-  chron/1881-07-31-new_york-new_york-Combined_New_York_morning_newspapers-2 * (dup)
-
 1882-02-11-hartford-connecticut-the_examiner/
 1882-02-16-concord-new_hampshire-independent_statesman/
 1889-11-30-narragansett_pier-rhode_island-Narragansett_herald,_Hopkinton_gazette,_and_North_Kingstown_courier/
 1889-12-05-kingwood-west_virginia-west_virginia_argus/
 1889-12-13-tazewell-virginia-clinch_valley_news/
 1890-05-17-savannah-georgia-Savannah_morning_news/
+
+
+===============================================
+???
+CHINESE EDUCATIONAL MISSION.
+Advices from China indicate the recall of the Chinese educational mission, established at Hartford in 1872. There are about 100 young Chinese men studying in this country, of whom about 50 are in colleges and technical schools.
+Source: Philadelphia Times, 10 Apr 1880, Philadelphia, Pennsylvania, Page 1
+
+
+Recall of the Chinese Mission.
+Hartford, Conn., July 14. — Late advices from China indicate the recall of the Chinese educational mission, established in Hartford in 1872. The cause of this action is not clearly understood, but it is expected that the boys will soon start for home. There are now about 100 studying in this country, of whom 50 are in colleges or technical schools. The early termination of the mission causes much regret here.
+Source:
+New York Tribune, 31 Jul 1881, New York, New York, p. 3

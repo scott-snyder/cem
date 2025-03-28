@@ -1,0 +1,14 @@
+Name: 1875-04-19-alexandria_gazette.txt
+Date: 1875-04-19
+Paper: Alexandria gazette
+Paperkey: alexandria_gazette
+Page: 2
+City: alexandria
+State: VA virginia
+Url: http://www.loc.gov/resource/sn85025007/1875-04-19/ed-1/?sp=2
+Title: Scribner for May
+Author: 
+---
+
+"Yung Wing and His Work" tells about the Chinese Educational Mission,
+and its devoted originator.

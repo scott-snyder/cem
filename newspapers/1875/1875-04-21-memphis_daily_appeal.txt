@@ -1,0 +1,14 @@
+Name: 1875-04-21-memphis_daily_appeal.txt
+Date: 1875-04-21
+Paper: Memphis daily appeal.
+Paperkey: memphis_daily_appeal
+Page: 1
+City: memphis
+State: TN tennessee
+Url: http://www.loc.gov/resource/sn83045160/1875-04-21/ed-1/?sp=1
+Title: Scribner for May
+Author: 
+---
+
+"Yung Wing and His Work" tells about the Chinese educational mission,
+and its devoted originator.

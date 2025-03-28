@@ -1,0 +1,18 @@
+Name: 1878-04-17-new_york_tribune.txt
+Date: 1878-04-17
+Paper: New-York tribune.
+Paperkey: new_york_tribune
+Page: 4
+City: new york
+State: NY new york
+Url: http://www.loc.gov/resource/sn83030214/1878-04-17/ed-1/?sp=4
+Title: 
+Author: 
+---
+
+Colombia has set a good example to the Spanish-American nations in
+deciding to send workmen abroad to acquire a knowledge of the
+mechanical arts, in order that they may instruct others on their
+return. The same principle is applied more systematically in the
+Chinese Educational Mission, but the resources and educational zeal of
+Colombia are not yet commensurate with an undertaking of that extent.

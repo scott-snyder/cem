@@ -1,0 +1,18 @@
+Name: 1881-07-15-new_york_tribune.txt
+Date: 1881-07-15
+Paper: New-York tribune.
+Paperkey: new_york_tribune
+Page: 1
+City: new york
+State: NY new york
+Url: 
+Title: 
+Author: 
+---
+
+Late advices from China indicate the recall of a Chinese educational
+mission established in Hartford in 1872. The cause of this action is
+not clearly understood, but it is expected that the boys will soon
+start home. There are about 100 now studying in this country, of whom
+50 are in college or technical schools. Early termination of the
+mission causes much regret here.

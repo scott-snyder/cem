@@ -1,0 +1,14 @@
+Name: 1875-04-29-toledo_chronicle.txt
+Date: 1875-04-29
+Paper: The Toledo chronicle.
+Paperkey: toledo_chronicle
+Page: 3
+City: toledo
+State: IA iowa
+Url: http://www.loc.gov/resource/sn84038485/1875-04-29/ed-1/?sp=3
+Title: Scribner for May
+Author: 
+---
+
+"Yung Wing and His Work" tells about the Chinese Educational Mission,
+and its devoted originator.

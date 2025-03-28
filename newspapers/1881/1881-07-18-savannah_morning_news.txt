@@ -1,0 +1,16 @@
+Name: 1881-07-18-savannah_morning_news.txt
+Date: 1881-07-18
+Paper: Savannah morning news
+Paperkey: savannah_morning_news
+Page: 1
+City: savannah
+State: GA georgia
+Url: http://www.loc.gov/resource/sn82015137/1881-07-18/ed-1/?sp=1
+Title: 
+Author: 
+---
+
+Advices from China indicate the recall of the Chinese Educational
+Mission, established in Hartford, Conn., in 1872. About 100 Chinese
+boys are now studying in this country, half of them being in colleges
+or technical schools.
