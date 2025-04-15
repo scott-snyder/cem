@@ -1,0 +1,15 @@
+Name: 1873-12-05-worcester_daily_press.txt
+Date: 1873-12-05
+Paper: Worcester daily press
+Paperkey: worcester_daily_press
+Page: 2
+City: worcester
+State: MA massachusetts
+Url: http://www.loc.gov/resource/sn83021219/1873-12-05/ed-1/?sp=2
+Title: 
+Author: 
+---
+
+Minister Low states that the prince and ministers of China have, on
+several occasions, expressed satisfaction at the generous reception of
+the thirty Chinese students in the United States.

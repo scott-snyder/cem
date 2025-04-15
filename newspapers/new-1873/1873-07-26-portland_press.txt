@@ -1,0 +1,15 @@
+Name: 1873-07-26-portland_press.txt
+Date: 1873-07-26
+Paper: The Portland daily press
+Paperkey: portland_press
+Page: 2
+City: portland
+State: ME maine
+Url: http://www.loc.gov/resource/sn83016025/1873-07-26/ed-1/?sp=2
+Title: 
+Author: 
+---
+
+The twenty-eight young Chinese students who were on board the train
+recently robbed on the Rock Island road, arrived at Springfield
+Thursday morning.

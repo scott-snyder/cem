@@ -1,0 +1,20 @@
+Name: 1873-10-30-worchester_spy.txt
+Date: 1873-10-30
+Paper: Worcester daily spy
+Paperkey: worchester_spy
+Page: 1
+City: worcester
+State: MA massachusetts
+Url: http://www.loc.gov/resource/sn83021205/1873-10-30/ed-1/?sp=1
+Title: 
+Author: 
+---
+
+The Chinese Educational Commission
+
+The chief of the Chinese educational commissioners in this city, the
+assistant commissioners, and the superintendent in charge of a large
+number of Chinese students at Springfield, Mass., arrived here this
+morning, and will spend several days visiting public institutions.
+The visit is made especially for the benefit of the chief
+commissioner, who will soon return to China, where he holds high rank.

@@ -1,0 +1,19 @@
+Name: 1873-12-04-new_york_herald.txt
+Date: 1873-12-04
+Paper: The New York herald.
+Paperkey: new_york_herald
+Page: 3
+City: new york
+State: NY new york
+Url: http://www.loc.gov/resource/sn83030313/1873-12-04/ed-1/?sp=3
+Title: 
+Author: 
+---
+
+Minister Low informs the Department of State that the Prince and
+Ministers of China have on several occasions expressed their
+satisfaction at the generous and kind reception of the 80 Chinese
+students who left in June last for the United States, and the sending
+of the second instalment two months earlier than the date originally
+fixed on shows that the undertaking has thus far more than met the
+expectations of its promoters.

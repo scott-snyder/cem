@@ -1,0 +1,19 @@
+Name: 1873-10-30-chicago_tribune.txt
+Date: 1873-10-30
+Paper: Chicago daily tribune.
+Paperkey: chicago_tribune
+Page: 7
+City: chicago
+State: IL illinois
+Url: http://www.loc.gov/resource/sn84031492/1873-10-30/ed-1/?sp=7
+Title: 
+Author: 
+---
+
+New York, Oct. 20.—The Chief of the Chinese Educational Commissioners
+in this city, the Assistant Commissioner, and tho Superintendent in
+charge of a largo number of Chinese students at Springfield, Mass.,
+arrived here this morning, and will spend several days visiting the
+public institutions. The visit is made especially for tho benefit of
+the Chief Commissioner, who will soon return to China, whore he holds
+high rank.

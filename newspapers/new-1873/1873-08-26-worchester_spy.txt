@@ -1,0 +1,16 @@
+Name: 1873-08-26-worchester_spy.txt
+Date: 1873-08-26
+Paper: Worcester daily spy
+Paperkey: worchester_spy
+Page: 2
+City: worcester
+State: MA massachusetts
+Url: http://www.loc.gov/resource/sn83021205/1873-08-26/ed-1/?sp=2
+Title: 
+Author: 
+---
+
+The Hartford Post has the authority of Mr.  Yung Wing himself, for the
+statement that he has not been ordered back to China by his
+government, and does not expect to return at present, but still retains
+the principal charge of the Chinese students here.

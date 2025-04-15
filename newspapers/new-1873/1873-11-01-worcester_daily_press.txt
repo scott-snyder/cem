@@ -1,0 +1,19 @@
+Name: 1873-11-01-worcester_daily_press.txt
+Date: 1873-11-01
+Paper: Worcester daily press
+Paperkey: worcester_daily_press
+Page: 2
+City: worcester
+State: MA massachusetts
+Url: http://www.loc.gov/resource/sn83021219/1873-11-01/ed-1/?sp=2
+Title: 
+Author: 
+---
+
+The chief of the Chinese educational commissioners in New York, the
+assistant commissioner and the superintendent in charge of a large
+number of Chinese students at Springfield, Mass., arrived in New York
+Wednesday, and will spend several days visiting the public
+institutions. The visit is made especially for the benefit of the
+chief commissioner, who will return to China, where he holds high
+rank.

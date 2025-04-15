@@ -1,0 +1,21 @@
+Name: 1873-12-08-chicago_tribune.txt
+Date: 1873-12-08
+Paper: Chicago daily tribune.
+Paperkey: chicago_tribune
+Page: 8
+City: chicago
+State: IL illinois
+Url: http://www.loc.gov/resource/sn84031492/1873-12-08/ed-1/?sp=8
+Title: 
+Author: 
+---
+
+FRIENDLY RELATIONS WITH CHINA.
+
+Minister Low informs the Department of Slate that the Prince and
+Ministers of China have on several occasions expressed their
+satisfaction at the generous and kind reception of the thirty Chinese
+students who left in June last for tho United States, and the sending
+of tho second installment two months earlier than tho date originally
+fixed on shown that the undertaking has thus far more than met the
+expectations of its promoters.

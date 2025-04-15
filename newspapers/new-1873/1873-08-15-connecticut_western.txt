@@ -1,0 +1,14 @@
+Name: 1873-08-15-connecticut_western.txt
+Date: 1873-08-15
+Paper: Connecticut western news.
+Paperkey: connecticut_western
+Page: 1
+City: 
+State: CT connecticut
+Url: http://www.loc.gov/resource/sn84027718/1873-08-15/ed-1/?sp=1
+Title: 
+Author: 
+---
+
+Twenty-eight Chinese students from eleven to fourteen years old, have
+been scattered about Connecticut and Massachusetts.

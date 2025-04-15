@@ -29,11 +29,13 @@ states = {'arizona'       : 'AZ',
           'ohio'          : 'OH',
           'oregon'        : 'OR',
           'pennsylvania'  : 'PA',
+          'texas'         : 'TX',
           'south carolina': 'SC',
           'tennessee'     : 'TN',
           'vermont'       : 'VT',
           'virginia'      : 'VA',
           'washington'    : 'WA',
+          'wisconsin'     : 'WI',
           'wyoming'       : 'WY',
           }
 
@@ -69,7 +71,7 @@ def readmd (mdfile_name):
     return d
 
 
-def writetxt (md, d):
+def writetxt (md, d, startclient):
     paperdict = read_papers()
     paper_title = md['Newspaper_Title']
     if paper_title not in paperdict:
@@ -110,39 +112,44 @@ def writetxt (md, d):
         wrote_cleaned = True
 
     if not wrote_cleaned:
-        intxt = os.path.join (d, d + '.text')
+        intxt = os.path.join (d, os.path.basename (d) + '.text')
         if os.path.exists (intxt):
             f.write('\n')
             f.write (open(intxt).read())
     f.close()
 
-    os.system (f'emacsclient -n {txtname}')
-    print (txtname)
+    if startclient:
+        os.system (f'emacsclient -n {txtname}')
+    print ('Wrote:', txtname)
     return wrote_cleaned
 
 
 def movedir (d):
     if not os.path.exists ('extra'):
         os.mkdir ('extra')
-    os.rename (d, os.path.join ('extra', d))
+    os.rename (d, os.path.join ('extra', os.path.basename (d)))
     return
 
 
 def showpdf (d):
-    pdf = os.path.join ('extra', d, d + '.pdf')
+    pdf = os.path.join ('extra', os.path.basename(d), os.path.basename (d) + '.pdf')
     if os.path.exists(pdf):
         os.system (f'xpdf {pdf}&')
     return
 
 
-def processmd (d):
+def processmd (d, startclient):
     if d[-1] == '/': d = d[:-1]
     md = readmd (os.path.join (d, 'MDFILE'))
-    wrote_cleaned = writetxt (md, d)
+    wrote_cleaned = writetxt (md, d, startclient)
     movedir (d)
-    if not wrote_cleaned:
+    if startclient and not wrote_cleaned:
         showpdf (d)
     return
 
 
-processmd (sys.argv[1])
+startclient = True
+if sys.argv[1] == '-n':
+    startclient = False
+    del sys.argv[1]
+processmd (sys.argv[1], startclient)

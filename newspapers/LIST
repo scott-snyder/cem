@@ -38,6 +38,7 @@ lancaster_intelligencer Lancaster daily intelligencer.     ; PA lancaster
 county_paper           The County paper.                   ; MO oregon
 daily_republican       Daily Republican                    ; DE wilmington
 national_republican    National Republican.                ; DC washington
+national_republican    National Republican                 ; DC washington
 chillicothe_crisis     Weekly Chillicothe crisis.          ; MO chillicothe
 vermont_phoenix        "Vermont ph\u0153nix."              ; VT brattleboro
 evening_star           Evening star.                       ; DC washington
@@ -79,8 +80,31 @@ eaton_democrat         Eaton weekly Democrat               ; OH eaton
 memphis_public_ledger  Public ledger.                      ; TN memphis
 york_working_christian The working Christian               ; SC york
 new_york_herald        The New York herald.                ; NY new york
-
-
+northern_ohio_journal  Northern Ohio journal               ; OH columbus
+rutland_daily_globe    The Rutland daily globe.            ; VT rutland
+worcester_daily_press  Worcester daily press               ; MA worcester
+superior_times         The Superior times                  ; WI superior
+wilmington_gazette     Wilmington daily gazette            ; DE wilmington
+gold_hill_news         Gold Hill daily news.               ; NV gold hill
+pioche_record          Pioche daily record.                ; NV pioche
+trinity_journal        Weekly Trinity journal              ; CA weaverville
+daily_argus            The Rock Island daily Argus         ; IL rock island
+carson_daily_appeal    Carson daily appeal.                ; NV carson city
+daily_phoenix          The daily phoenix                   ; SC columbia
+nashville_union        Nashville union and American.       ; TN nashville
+state_journal          The Daily state journal             ; VA richmond
+dodgeville_chronicle   Dodgeville chronicle                ; WI dodgeville
+democratic_statesman   The weekly democratic statesman     ; TX austin
+rutland_weekly_herald  Rutland weekly herald.              ; VT rutland
+puget_sound_dispatch   Puget Sound dispatch                ; WA seattle
+cambria_freeman        The Cambria freeman.                ; PA edensburg
+fremont_weekly_journal The Fremont weekly journal          ; OH fremont
+knoxville_chronicle    Knoxville weekly chronicle.         ; TN knoxville
+redwood_gazette        The Redwood gazette                 ; MN redwood falls
+centre_reporter        The Centre reporter.                ; PA pennsylvania
+perrysburg_journal     Perrysburg journal                  ; PH perrysburg
+connecticut_western    Connecticut western news.           ; CT north canaan
+fayette_county_herald  Fayette County herald               ; OH washington court house
 
 
 == 1872 ======================================================================
@@ -108,6 +132,81 @@ CEM commissioners
 CEM introduction
   1873-08-18-nyt.txt
 
+--
+
+Hawley and CEM tailor at church
+  1873-01-03-springfield_republican.txt
+
+Students at Yale [sic]
+  1873-01-23-york_working_christian.txt
+
+CEM introduction
+  1873-06-12-litchfield_enquirer.txt*
+  1873-05-16-rutland_daily_globe.txt
+  1873-05-20-worchester_daily_press.txt*
+  1873-05-20-worchester_daily_press.txt*
+  1873-05-31-superior_times.txt*
+  1873-06-05-wilmington_gazette.txt
+
+Students faith in confucius
+  1873-02-22-northern_ohio_journal.txt
+
+Arrival of students
+  1873-07-14-gold_hill_news.txt
+  1873-07-15-eureka_daily_sentinel.txt
+  1873-07-15-pioche_record.txt
+  1873-07-22-daily_argus.txt
+  1873-08-15-connecticut_western.txt
+
+
+Arrival of students and anti-chinese agitation
+  1873-07-19-trinity_journal.txt
+
+Train robbery
+  1873-07-22-gold_hill_news.txt
+  1873-07-23-carson_daily_appeal.txt
+  1873-07-23-daily_leader.txt
+  1873-07-23-daily_phoenix.txt
+  1873-07-23-nashville_union.txt
+  1873-07-23-new_york_tribune.txt
+  1873-07-23-new_york_herald.txt
+  1873-07-23-new_york_sun.txt
+  1873-07-23-state_journal.txt
+  1873-08-01-dodgeville_chronicle.txt
+  1873-07-24-democratic_statesman.txt
+  1873-07-23-worcester_daily_press.txt
+  1873-07-24-puget_sound_dispatch.txt
+  1873-07-25-cambria_freeman.txt
+  1873-07-25-fremont_weekly_journal.txt
+  1873-07-26-portland_press.txt
+  1873-07-30-knoxville_chronicle.txt
+  1873-07-29-stauntin_spectator.txt
+  1873-07-31-redwood_gazette.txt
+  1873-08-01-perrysburg_journal.txt
+  1873-08-21-fayette_county_herald.txt
+
+Farrar oration about liberty, with CEM students as examples
+  1873-07-24-rutland_weekly_herald.txt
+
+Chinese government pleased with reception of CEM students
+  1873-12-04-new_york_tribune.txt
+  1873-12-04-new_york_herald.txt
+  1873-12-04-worchester_spy.txt
+  1873-12-05-worcester_daily_press.txt
+  1873-12-08-chicago_tribune.txt
+
+
+Students in Hebron
+  1873-08-15-willimantic_journal.txt
+
+Yung Wing not ordered back
+  1873-08-26-worchester_spy.txt
+
+CEM commissioners
+  1873-10-30-chicago_tribune.txt
+  1873-10-30-national_republican.txt
+  1873-10-30-worchester_spy.txt
+  1873-11-01-worcester_daily_press.txt
 
 == 1874 ======================================================================
 

@@ -1,0 +1,24 @@
+Name: 1873-12-04-new_york_tribune.txt
+Date: 1873-12-04
+Paper: New-York tribune
+Paperkey: new_york_tribune
+Page: 1
+City: new york
+State: NY new york
+Url: http://www.loc.gov/resource/sn83030214/1873-12-04/ed-1/?sp=1
+Title: 
+Author: 
+---
+
+DIPLOMATIC CORRESPONDENCE.
+
+SATISFACTION OF THE CHINESE PRINCE AND MINISTERS AT THE KIND RECEPTION
+OF CHINESE STUDENTS IN THIS COUNTRY
+
+Minister Low informs the Department of State that the Prince and
+Ministers of China have, on several occasions, expressed their
+satisfaction at the generous and kind reception of the 30 Chinese
+students which left in June last for the United States; and the
+sending of the second installment two months earlier than the date
+originally fixed on shows that the undertaking has, thus far, more
+than met the expectations of its promoters,

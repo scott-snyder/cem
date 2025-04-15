@@ -1,0 +1,17 @@
+Name: 1873-07-14-gold_hill_news.txt
+Date: 1873-07-14
+Paper: Gold Hill daily news.
+Paperkey: gold_hill_news
+Page: 3
+City: gold hill
+State: NV nevada
+Url: http://www.loc.gov/resource/sn84022046/1873-07-14/ed-1/?sp=3
+Title: 
+Author: 
+---
+
+San Francisco, July 14—2 P.M.-
+
+Chinese students arrived yesterday under charge of Professor Yung
+Chung Cheung. They stopped at the Occidental, and will go to
+Springfield, Massachusetts.
