@@ -22,6 +22,7 @@ states = {'arizona'       : 'AZ',
           'massachusetts' : 'MA',
           'minnesota'     : 'MN',
           'missouri'      : 'MO',
+          'montana'       : 'MT',
           'nebraska'      : 'NE',
           'nevada'        : 'NV',
           'new hampshire' : 'NH',
@@ -35,6 +36,7 @@ states = {'arizona'       : 'AZ',
           'vermont'       : 'VT',
           'virginia'      : 'VA',
           'washington'    : 'WA',
+          'west virginia' : 'WV',
           'wisconsin'     : 'WI',
           'wyoming'       : 'WY',
           }
@@ -120,7 +122,7 @@ def writetxt (md, d, startclient):
 
     if startclient:
         os.system (f'emacsclient -n {txtname}')
-    print ('Wrote:', txtname)
+    print ('Wrote:', os.path.join (os.getcwd(), txtname))
     return wrote_cleaned
 
 

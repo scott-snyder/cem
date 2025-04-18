@@ -42,6 +42,7 @@ national_republican    National Republican                 ; DC washington
 chillicothe_crisis     Weekly Chillicothe crisis.          ; MO chillicothe
 vermont_phoenix        "Vermont ph\u0153nix."              ; VT brattleboro
 evening_star           Evening star.                       ; DC washington
+evening_star           Evening star                        ; DC washington
 savannah_morning_news  Savannah morning news               ; GA georgia
 chicago_tribune        Chicago daily tribune.              ; IL chicago
 belleville_telescope   Belleville Telescope                ; KS belleville
@@ -105,7 +106,24 @@ centre_reporter        The Centre reporter.                ; PA pennsylvania
 perrysburg_journal     Perrysburg journal                  ; PH perrysburg
 connecticut_western    Connecticut western news.           ; CT north canaan
 fayette_county_herald  Fayette County herald               ; OH washington court house
-
+grant_county_herald    Grant County herald                 ; WI lancaster
+jasper_weekly_courier  The Jasper weekly courier           ; IN jasper
+ravenna_democratic     The Democratic press                ; OH ravenna
+ashtabula_telegraph    Ashtabula telegraph                 ; OH ashtabula
+knoxville_journal      Knoxville journal.                  ; TN knoxville
+lyon_county_times      Lyon County times.                  ; NV lyon county
+richmond_dispatch      The daily dispatch                  ; VA richmond
+milan_exchange         The Milan exchange.                 ; TN milan
+watertown_republican   Watertown republican                ; WI watertown
+orangeburg_times       Orangeburg times                    ; SC orangeburg
+holt_county_sentinel   The Holt County sentinel.           ; MO oregon
+albany_register        The Albany register                 ; OR albany
+bozeman_courier        Bozeman avant courier.              ; MT bozeman
+opelousas_journal      The Opelousas journal.              ; LA opelousas
+honolulu_advertiser    The Pacific commercial advertiser.  ; HI honolulu
+wilmington_gazette     The daily gazette                   ; DE wilmington
+south_branch_intell    South Branch intelligencer          ; WV south branch
+yorkville_enquirer     Yorkville enquirer                  ; SC york
 
 == 1872 ======================================================================
 
@@ -222,6 +240,67 @@ two students admitted to yale
 
 yung wing son graduating from wilbraham academy
   chron/1874-06-26-springfield-massachusetts-Springfield_Republican/
+
+
+--
+CEM introduction and students doing well
+  1874-06-13-chicago_tribune.txt
+  1874-06-19-state_journal.txt
+  1874-06-26-jasper_weekly_courier.txt
+  1874-11-13-albany_register.txt
+
+Chinese students must leave
+  1874-06-18-grant_county_herald.txt
+
+Arrival of third detachment
+  1874-07-02-ravenna_democratic.txt
+  1874-07-04-ashtabula_telegraph.txt
+  1874-07-23-knoxville_journal.txt
+  1874-08-05-worcester_daily_press.txt
+  1874-08-07-connecticut_western.txt
+  1874-08-24-worchester_spy.txt
+  1874-08-27-richmond_dispatch.txt
+  1874-09-17-milan_exchange.txt
+  1874-09-23-watertown_republican.txt
+  1874-09-30-watertown_republican.txt
+  1874-10-16-daily_bee.txt
+  1874-10-24-chicago_tribune.txt
+  1874-10-29-orangeburg_times.txt
+  1874-10-30-new_york_herald.txt
+  1874-10-30-holt_county_sentinel.txt
+  1874-10-31-evening_star.txt
+  1874-11-02-chicago_tribune.txt
+  1874-11-04-watertown_republican.txt
+  1874-11-05-new_york_tribune.txt
+  1874-11-06-willimantic_journal.txt
+  1874-11-07-daily_phoenix.txt
+  1874-11-07-daily_phoenix-2.txt
+  1874-11-11-memphis_public_ledger.txt
+  1874-11-12-daily_phoenix.txt
+  1874-11-13-bozeman_courier.txt
+  1874-11-13-opelousas_journal.txt
+  1874-11-14-honolulu_advertiser.txt
+  1874-11-17-indiana_sentinel.txt
+  1874-11-19-knoxville_journal.txt
+  1874-11-19-redwood_gazette.txt
+  1874-11-21-northern_ohio_journal.txt
+
+CEM introduction, Laisun commissioner
+  1874-11-12-milan_exchange.txt
+
+San Francisco consulate
+  1874-08-02-lyon_county_times.txt
+  1874-08-06-puget_sound_dispatch.txt
+
+modern languages reception
+  1874-10-24-portland_press.txt
+  1874-10-24-worchester_spy.txt
+
+Chinese students in New England
+  1874-12-02-wilmington_gazette.txt
+  1874-12-04-south_branch_intell.txt
+  1874-12-08-indiana_sentinel.txt
+  1874-12-10-yorkville_enquirer.txt
 
 
 == 1875 ======================================================================

@@ -1,0 +1,13 @@
+Name: 1874-12-02-wilmington_gazette.txt
+Date: 1874-12-02
+Paper: The daily gazette
+Paperkey: wilmington_gazette
+Page: 2
+City: wilmington
+State: DE delaware
+Url: http://www.loc.gov/resource/sn82014805/1874-12-02/ed-1/?sp=2
+Title: 
+Author: 
+---
+
+Massachusetts and Connecticut have 160 Chinese students.

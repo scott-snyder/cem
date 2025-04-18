@@ -1,0 +1,41 @@
+Name: 1874-06-13-chicago_tribune.txt
+Date: 1874-06-13
+Paper: Chicago daily tribune.
+Paperkey: chicago_tribune
+Page: 9
+City: chicago
+State: IL illinois
+Url: http://www.loc.gov/resource/sn84031492/1874-06-13/ed-1/?sp=9
+Title: 
+Author: 
+---
+
+The Chinese Students.
+
+The Springfield (Mass.) Union, in an article upon the Chinese students
+in America, many of whom are in Springfield and Hartford, says: "They
+are all fitting for our higher grades of schools, and will enter our
+scientific schools and colleges as soon as they are prepared to do so.
+Elijah Laisun. the sun of Mr. Chan Laisun, of this city, will enter
+the Sheffield scientific school, and Lemuel Yung tho Troy polytechnic
+school, this year. This is certainly a groat achievement for boys who
+have have been in this country only two years. The American system of
+instruction has met with the undivided approval of the educated
+gentlemen in charge of tho students, and they express themselves
+thoroughly satisfied with the progress of their proteges. So
+successful, in fact, has been tho experiment in America, that the
+Chinese Government already has a plan projected for extending their
+educational enterprises, and, in the course of another year, will send
+students to England, France, and Germany to be educated. All the
+students are preparing for Government service. Some will enter the
+diplomatic, some the civil, and,others the military and engineering
+departments of the Government, and will be assigned to their
+respective duties in accordance with their taste and fitness for one
+or the other of these distinctive callings.  An effort will be made in
+due time to gain a place for some of tho students at West Point and
+Annapolis, so that they may get a complete military and naval training
+in connection with their other attainments. Commissioner Yung Wing,
+who has been absent in China for several months, is to return shortly,
+and will probably have some further plane for the pupils here. Thus
+far their course has reflected constant credit on their country, and
+has made them not unworthy examples for our American youth."
