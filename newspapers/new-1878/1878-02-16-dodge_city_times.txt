@@ -1,0 +1,16 @@
+Name: 1878-02-16-dodge_city_times.txt
+Date: 1878-02-16
+Paper: Dodge City times.
+Paperkey: dodge_city_times
+Page: 2
+City: dodge city
+State: KS kansas
+Url: http://www.loc.gov/resource/sn84029838/1878-02-16/ed-1/?sp=2
+Title: 
+Author: 
+---
+
+The Siamese Government has applied to Mr. B. G. Northrop, of Hartford,
+for information in regard to the Chinese students now in this country,
+with a view to sending 30 sons of Siamese Princes and Nobles to be
+educated in American institutions.
