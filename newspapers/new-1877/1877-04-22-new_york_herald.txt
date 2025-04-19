@@ -1,0 +1,15 @@
+Name: 1877-04-22-new_york_herald.txt
+Date: 1877-04-22
+Paper: The New York herald.
+Paperkey: new_york_herald
+Page: 6
+City: new york
+State: NY new york
+Url: http://www.loc.gov/resource/sn83030313/1877-04-22/ed-1/?sp=6
+Title: 
+Author: 
+---
+
+Zion's Advocate, of Cortland, Me., has entered upon its thirtieth year
+and celebrates the event by an enlargement of its dimensions. The
+Advocate says there are 120 Chinese students in New England colleges.

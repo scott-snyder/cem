@@ -1,0 +1,14 @@
+Name: 1877-12-22-dodge_city_times.txt
+Date: 1877-12-22
+Paper: Dodge City times.
+Paperkey: dodge_city_times
+Page: 6
+City: dodge city
+State: KS kansas
+Url: http://www.loc.gov/resource/sn84029838/1877-12-22/ed-1/?sp=6
+Title: 
+Author: 
+---
+
+The Chinese students in our Eastern colleges wear petticoats, which
+are strikingly feminine in appearance.

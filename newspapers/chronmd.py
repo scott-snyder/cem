@@ -6,6 +6,7 @@ import glob
 
 
 states = {'arizona'       : 'AZ',
+          'arkansas'      : 'AR',
           'california'    : 'CA',
           'colorado'      : 'CO',
           'connecticut'   : 'CT',
@@ -16,6 +17,7 @@ states = {'arizona'       : 'AZ',
           'illinois'      : 'IL',
           'indiana'       : 'IN',
           'iowa'          : 'IA',
+          'kansas'        : 'KS',
           'kentucky'      : 'KY',
           'louisiana'     : 'LA',
           'maine'         : 'ME',
