@@ -1,0 +1,13 @@
+Name: 1876-08-25-new_york_tribune.txt
+Date: 1876-08-25
+Paper: New-York tribune
+Paperkey: new_york_tribune
+Page: 4
+City: new york
+State: NY new york
+Url: http://www.loc.gov/resource/sn83030214/1876-08-25/ed-1/?sp=4
+Title: 
+Author: 
+---
+
+One hundred and twenty Chinese students are visiting the exhibition this week

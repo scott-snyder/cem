@@ -1,0 +1,18 @@
+Name: 1876-09-30-honolulu_advertiser.txt
+Date: 1876-09-30
+Paper: The Pacific commercial advertiser.
+Paperkey: honolulu_advertiser
+Page: 4
+City: honolulu
+State: HI hawaii
+Url: http://www.loc.gov/resource/sn82015418/1876-09-30/ed-1/?sp=4
+Title: 
+Author: 
+---
+
+That is one of the most excellent uses of the Centennial Exhibition
+that is being made by the tutors and preceptors of the Chinese
+students, now in course of training and education in this country.
+There are over a hundred of them, and they are to be brought to the
+Exhibition to study it, and all the instructive objects to be found
+there.

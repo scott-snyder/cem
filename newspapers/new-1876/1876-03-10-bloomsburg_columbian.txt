@@ -1,0 +1,16 @@
+Name: 1876-03-10-bloomsburg_columbian.txt
+Date: 1876-03-10
+Paper: The Columbian.
+Paperkey: bloomsburg_columbian
+Page: 1
+City: bloomsburg
+State: PA pennsylvania
+Url: http://www.loc.gov/resource/sn83032011/1876-03-10/ed-1/?sp=1
+Title: 
+Author: 
+---
+
+Thirty Chinese students who lately reached this country with the
+purpose of being educated in New England colleges are to be allowed
+fifteen years for study. They have the promise of high offices under
+their government when they return home.

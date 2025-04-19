@@ -1,0 +1,14 @@
+Name: 1876-12-01-hickman_courier.txt
+Date: 1876-12-01
+Paper: The Hickman courier.
+Paperkey: hickman_courier
+Page: 1
+City: hickman
+State: KY kentucky
+Url: http://www.loc.gov/resource/sn85052141/1876-12-01/ed-1/?sp=1
+Title: 
+Author: 
+---
+
+There are now one hundred and twenty Chinese students in the colleges
+of New England.

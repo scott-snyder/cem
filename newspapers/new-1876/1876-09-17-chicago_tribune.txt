@@ -1,0 +1,16 @@
+Name: 1876-09-17-chicago_tribune.txt
+Date: 1876-09-17
+Paper: Chicago daily tribune.
+Paperkey: chicago_tribune
+Page: 7
+City: chicago
+State: IL illinois
+Url: http://www.loc.gov/resource/sn84031492/1876-09-17/ed-1/?sp=7
+Title: 
+Author: 
+---
+
+The Chinese students of Hartford have formed a base-ball club which
+they have named the Oriental Base-Ball Club. It is pleasant for the
+scorer to call each names as these to the bat: Sy Chung, Kwal Pau,
+Kee Jung, Shen Chi, and Tun Ven.

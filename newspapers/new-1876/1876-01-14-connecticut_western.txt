@@ -1,0 +1,16 @@
+Name: 1876-01-14-connecticut_western.txt
+Date: 1876-01-14
+Paper: Connecticut western news.
+Paperkey: connecticut_western
+Page: 1
+City: 
+State: CT connecticut
+Url: http://www.loc.gov/resource/sn84027718/1876-01-14/ed-1/?sp=1
+Title: 
+Author: 
+---
+
+Thirty Chinese students who lately reached this country with the
+purpose of being educated in New England colleges are to be allowed
+fifteen years for study. They have the promise of high offices under
+their government when they return home.
