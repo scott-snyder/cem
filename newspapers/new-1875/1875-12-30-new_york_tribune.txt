@@ -1,0 +1,16 @@
+Name: 1875-12-30-new_york_tribune.txt
+Date: 1875-12-30
+Paper: New-York tribune
+Paperkey: new_york_tribune
+Page: 6
+City: new york
+State: NY new york
+Url: http://www.loc.gov/resource/sn83030214/1875-12-30/ed-1/?sp=6
+Title: 
+Author: 
+---
+
+One of the most interesting features of the Connecticut educational
+department at the Centennial will be the exhibition of specimens of
+the work of the Chinese students now receiving instruction in the
+institutions of that State,

@@ -1,0 +1,19 @@
+Name: 1875-04-19-new_york_herald.txt
+Date: 1875-04-19
+Paper: The New York herald.
+Paperkey: new_york_herald
+Page: 9
+City: new york
+State: NY new york
+Url: http://www.loc.gov/resource/sn83030313/1875-04-19/ed-1/?sp=9
+Title: 
+Author: 
+---
+
+TSAU-KIA-TSIOH, CHINESE STUDENT.
+
+Tsau-Kia-Tsioh, a Chinese student, twelve years old, one of the
+company of Asiatics who arrived in the United States last November,
+died at the residence of the Chinese Commissioner, in Hartford, Conn.,
+during the night of the 17th inst. He had been under instruction with
+a family in North Amherst, Mass.

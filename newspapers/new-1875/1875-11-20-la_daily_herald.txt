@@ -1,0 +1,14 @@
+Name: 1875-11-20-la_daily_herald.txt
+Date: 1875-11-20
+Paper: Los Angeles daily herald
+Paperkey: la_daily_herald
+Page: 2
+City: los angeles
+State: CA california
+Url: http://www.loc.gov/resource/sn84038806/1875-11-20/ed-1/?sp=2
+Title: 
+Author: 
+---
+
+Thirty Chinese students arrived in San Francisco on Thursday. They are
+to receive an education in Eastern colleges.

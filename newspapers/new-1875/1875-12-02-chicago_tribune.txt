@@ -1,0 +1,17 @@
+Name: 1875-12-02-chicago_tribune.txt
+Date: 1875-12-02
+Paper: Chicago daily tribune.
+Paperkey: chicago_tribune
+Page: 8
+City: chicago
+State: IL illinois
+Url: http://www.loc.gov/resource/sn84031492/1875-12-02/ed-1/?sp=8
+Title: 
+Author: 
+---
+
+Thirty-eight Chinese students, on route to colleges in New England,
+have just arrived from San Francisco, via tho Chicago & Northwestern
+Railway. This is the fourth lot that the Government of China have sent
+here to be educated.  The party consisted of boys from 3 to 15
+years old, who are to remain East fifteen years.

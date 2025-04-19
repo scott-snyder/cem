@@ -1,0 +1,16 @@
+Name: 1875-12-30-portland_press.txt
+Date: 1875-12-30
+Paper: The Portland daily press
+Paperkey: portland_press
+Page: 1
+City: portland
+State: ME maine
+Url: http://www.loc.gov/resource/sn83016025/1875-12-30/ed-1/?sp=1
+Title: 
+Author: 
+---
+
+Secretary Northop, of the Connecticut State Board of Education, has
+made preparations for displaying at the Philadelphia exhibition
+evidences of the educational development of the Chinese students who
+are now in this country, under the charge of Mr. Yung Wing.
