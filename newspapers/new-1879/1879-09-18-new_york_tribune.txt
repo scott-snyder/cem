@@ -1,0 +1,15 @@
+Name: 1879-09-18-new_york_tribune.txt
+Date: 1879-09-18
+Paper: New-York tribune
+Paperkey: new_york_tribune
+Page: 6
+City: new york
+State: NY new york
+Url: http://www.loc.gov/resource/sn83030214/1879-09-18/ed-1/?sp=6
+Title: 
+Author: 
+---
+
+A former Chinese student has presented to the seminary at Easthampton,
+Mass, a history of China written by Confucius, and printed in Chinese
+characters.

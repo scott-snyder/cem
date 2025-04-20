@@ -1,0 +1,20 @@
+Name: 1879-09-11-new_york_tribune.txt
+Date: 1879-09-11
+Paper: New-York tribune
+Paperkey: new_york_tribune
+Page: 6
+City: new york
+State: NY new york
+Url: http://www.loc.gov/resource/sn83030214/1879-09-11/ed-1/?sp=6
+Title: 
+Author: 
+---
+
+Many of the students of the Chinese mission at Hartford are entering
+the colleges and polytechnic schools of New England and the Middle
+States this Autumn. These Chinese students, while in the preparatory
+schools, have shown themselves to be remarkably intelligent,
+industrious and persistent. Five of them have gone into the Yale
+Academic Freshman Class; three of them into the Sheffield Scientific
+School; two have entered Columbia' one has gone to Amherst; one to the
+Boston School of Technology, and one to Troy Polytechnic School.
