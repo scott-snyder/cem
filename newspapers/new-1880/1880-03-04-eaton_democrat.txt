@@ -1,0 +1,21 @@
+Name: 1880-03-04-eaton_democrat.txt
+Date: 1880-03-04
+Paper: The Eaton Democrat
+Paperkey: eaton_democrat
+Page: 1
+City: eaton
+State: OH ohio
+Url: http://www.loc.gov/resource/sn88077272/1880-03-04/ed-1/?sp=1
+Title: 
+Author: 
+---
+
+A Chinese student at Andover wrote in a lady’s album the following
+version of a well-known poem:
+
+  “How doth the little sting bug
+   Improve every sixty minutes
+     All the day.
+   Go pickee up sting-bug juice
+   From flowers just got busted."
+    —Norfolk County Gazette

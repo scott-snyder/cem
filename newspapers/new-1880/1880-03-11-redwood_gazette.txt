@@ -1,0 +1,21 @@
+Name: 1880-03-11-redwood_gazette.txt
+Date: 1880-03-11
+Paper: The Redwood gazette
+Paperkey: redwood_gazette
+Page: 2
+City: redwood falls
+State: MN minnesota
+Url: http://www.loc.gov/resource/sn85025570/1880-03-11/ed-1/?sp=2
+Title: 
+Author: 
+---
+
+A Chinese student at Andover wrote in a lady’s album the following
+version of a well-known poem:
+
+  “How doth the little sting-bug
+   Improve every sixty minutes
+     All the day.
+   Go pickee up sting-bug juice
+   From flowers just got busted."
+    —Norfolk County Gazette

@@ -1,0 +1,21 @@
+Name: 1880-04-07-morristown_gazette.txt
+Date: 1880-04-07
+Paper: The Morristown gazette.
+Paperkey: morristown_gazette
+Page: 1
+City: morristown
+State: TN tennessee
+Url: http://www.loc.gov/resource/sn85033681/1880-04-07/ed-1/?sp=1
+Title: 
+Author: 
+---
+
+A Chinese student at Andover wrote in a lady’s album the following
+version of a well-known poem:
+
+  “How doth the little sting-bug
+   Improve every sixty minutes
+     All the day.
+   Go pickee up sting-bug juice
+   From flowers just got busted."
+    —Norfolk County Gazette

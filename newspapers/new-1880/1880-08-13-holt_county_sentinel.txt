@@ -1,0 +1,14 @@
+Name: 1880-08-13-holt_county_sentinel.txt
+Date: 1880-08-13
+Paper: The Holt County sentinel.
+Paperkey: holt_county_sentinel
+Page: 3
+City: oregon
+State: MO missouri
+Url: http://www.loc.gov/resource/sn85034039/1880-08-13/ed-1/?sp=3
+Title: 
+Author: 
+---
+
+Mun Yen Chung, a Chinese student weighing but ninety pounds, will be
+coxswain for the Yale crew at New London.

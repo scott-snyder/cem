@@ -1,0 +1,23 @@
+Name: 1880-03-12-magnolia_gazette.txt
+Date: 1880-03-12
+Paper: The Magnolia gazette.
+Paperkey: magnolia_gazette
+Page: 1
+City: magnolia
+State: MS mississippi
+Url: http://www.loc.gov/resource/sn85034447/1880-03-12/ed-1/?sp=1
+Title: 
+Author: 
+---
+
+A CHINESE STING BUG
+
+A Chinese student at Andover wrote in a lady’s album the following
+version of a well-known poem:
+
+  “How doth the little sting bug
+   Improve every sixty minutes
+     All the day.
+   Go pickee up sting-bug juice
+   From flowers just got busted."
+    —Norfolk County Gazette

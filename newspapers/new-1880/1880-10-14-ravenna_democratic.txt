@@ -1,0 +1,14 @@
+Name: 1880-10-14-ravenna_democratic.txt
+Date: 1880-10-14
+Paper: The Democratic press
+Paperkey: ravenna_democratic
+Page: 1
+City: ravenna
+State: OH ohio
+Url: http://www.loc.gov/resource/sn83035083/1880-10-14/ed-1/?sp=1
+Title: 
+Author: 
+---
+
+Chinese students in Hartford spend nine and a half hours a day in the
+study of their own language.
