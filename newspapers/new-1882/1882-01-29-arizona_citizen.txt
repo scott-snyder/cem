@@ -1,0 +1,15 @@
+Name: 1882-01-29-arizona_citizen.txt
+Date: 1882-01-29
+Paper: Arizona weekly citizen
+Paperkey: arizona_citizen
+Page: 4
+City: tucson
+State: AZ arizona
+Url: http://www.loc.gov/resource/sn82015133/1882-01-29/ed-1/?sp=4
+Title: 
+Author: 
+---
+
+A Chicago Times Hartford special says that letters from Chinese
+students, recently received, say they are treated as prisoners, but
+more freedom is expected soon.

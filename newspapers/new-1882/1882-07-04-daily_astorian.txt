@@ -1,0 +1,14 @@
+Name: 1882-07-04-daily_astorian.txt
+Date: 1882-07-04
+Paper: The Daily Astorian
+Paperkey: daily_astorian
+Page: 1
+City: astoria
+State: OR oregon
+Url: http://www.loc.gov/resource/sn96061149/1882-07-04/ed-1/?sp=1
+Title: 
+Author: 
+---
+
+Fifty of the Chinese students in American colleges, who were called
+home, will be sent back.

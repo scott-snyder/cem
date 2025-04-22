@@ -1,182 +1,223 @@
 * = longer article
 
 PAPERS
-springfield_republican Springfield weekly Republican       ; MA springfield
+abbeville_press        The Abbeville press and banner      ; SC abbeville
+aegis_intelligencer    The aegis & intelligencer.          ; MD bel air
+albany_register        The Albany register                 ; OR albany
+alexandria_gazette     Alexandria gazette                  ; VA alexandria
+arizona_central        The Arizona sentinel
+arizona_citizen        Arizona weekly citizen              ; AZ tucson
+arizona_citizen        Weekly Arizona citizen              ; AZ tucson
+ashtabula_telegraph    Ashtabula telegraph                 ; OH ashtabula
+baltimore_sun          Baltimore Sun                       ; MD baltimore
+belleville_telescope   Belleville Telescope                ; KS belleville
+belmont_chronicle      Belmont chronicle                   ; OH saint clairsville
+benton_record          The Benton weekly record.           ; MT fort benton
+bloomsburg_columbian   The Columbian.                      ; PA bloomsburg
+bolivar_bulletin       The Bolivar bulletin.               ; TN bolivar
+boston_post            Boston Post                         ; MA boston
+bozeman_courier        Bozeman avant courier.              ; MT bozeman
+butte_weekly_miner     The weekly miner.                   ; MT butte
+cairo_bulletin         The Cairo bulletin                  ; IL cairo
+cairo_bulletin         The daily Cairo bulletin            ; IL cairo
+cambria_freeman        The Cambria freeman.                ; PA edensburg
+carson_city_appeal     Morning appeal.                     ; NV carson city
+carson_daily_appeal    Carson daily appeal.                ; NV carson city
+central_presbyterian   The central Presbyterian            ; VA richmond
+centre_democrat        Centre Democrat.                    ; PA bellefonte
+centre_reporter        The Centre reporter.                ; PA pennsylvania
+charlotte_democrat     The Charlotte Democrat              ; NC charlotte
+chester_daily_times    Chester Daily Times                 ; PA chester
+chicago_tribune        Chicago daily tribune.              ; IL chicago
+chillicothe_crisis     Weekly Chillicothe crisis.          ; MO chillicothe
+cincinnati_commercial  Cincinnati Commercial               ; OH cincinnati
+cleveland_leader       The Cleveland Leader                ; OH cleveland
+colorado_springs_gaz   Colorado Springs Gazette            ; CO colorado springs
+columbus_democrat      Columbus Democrat.                  ; MS columbus
+concord_independent    Independent statesman               ; NH concord
+connecticut_western    Connecticut western news.           ; CT north canaan
+corvallis_gazette      The Corvallis gazette               ; OR corvallis
+county_paper           The County paper.                   ; MO oregon
+daily_argus            The Rock Island Argus               ; IL rock island
+daily_argus            The Rock Island daily Argus         ; IL rock island
+daily_astorian         The Daily Astorian                  ; OR astoria
+daily_bee              Omaha daily bee                     ; NE omaha
+daily_globe            Daily globe                         ; MN saint paul
+daily_intelligencer    The daily intelligencer             ; WA seattle
+daily_leader           The Cheyenne daily leader           ; WY cheyenne
+daily_phoenix          The daily phoenix                   ; SC columbia
+daily_republican       Daily Republican                    ; DE wilmington
+daily_tribune          New York Daily Tribune              ; NY new york
+dallas_herald          The Dallas weekly herald            ; TX dallas
+democratic_statesman   The weekly democratic statesman     ; TX austin
+deseret_news           Salt Lake City Deseret News         ; UT salt lake city
+dillon_tribune         The Dillon tribune.                 ; MT dillon
+dodge_city_times       Dodge City times.                   ; KS dodge city
+dodgeville_chronicle   Dodgeville chronicle                ; WI dodgeville
+eaton_democrat         Eaton weekly Democrat               ; OH eaton
+eaton_democrat         The Eaton Democrat                  ; OH eaton
+elk_county_advocate    The Elk County advocate.            ; PA ridgway
+ellsworth_american     Ellsworth American                  ; ME ellsworth
+essex_county_herald    Essex County herald.                ; VT island pond
+eureka_daily_sentinel  Eureka daily sentinel.              ; NV nevada
+evening_star           Evening star                        ; DC washington
+evening_star           Evening star.                       ; DC washington
+fayette_county_herald  Fayette County herald               ; OH washington court house
+findlay_jeffersonian   The Findlay Jeffersonian            ; OH findlay
+fremont_weekly_journal The Fremont weekly journal          ; OH fremont
+frostburg_mining       Frostburg mining journal.           ; MD frostburg
+geneseo_sun            Geneseo Sun                         ; IL geneseo
+genevieve_fair_play    Fair play.                          ; MO sainte genevieve
+gloucester_democrat    Gloucester County Democrat          ; NJ woodbury
+gold_hill_news         Gold Hill daily news.               ; NV gold hill
+grant_county_herald    Grant County herald                 ; WI lancaster
 hawaiian_gazette       The Hawaiian gazette.               ; HI honolulu
-worchester_spy         Worcester daily spy
+hawk_eye_gazette       Burlington Daily Hawk Eye Gazette   ; IA burlington
+herald_and_mail        The herald and mail                 ; TN columbia
+hickman_courier        The Hickman courier.                ; KY hickman
+holt_county_sentinel   The Holt County sentinel.           ; MO oregon
+honolulu_advertiser    The Pacific commercial advertiser.  ; HI honolulu
+indiana_sentinel       The Indiana State sentinel
+indianapolis_journal   Indianapolis Journal                ; IN indianapolis
+indianapolis_news      Indianapolis News                   ; IN indianapolis
+jackson_clarion        The weekly clarion.                 ; MS jackson
+jackson_standard       The Jackson standard                ; OH jackson
+janesville_gazette     Janesville Gazette                  ; WI janesville
+jasper_weekly_courier  The Jasper weekly courier           ; IN jasper
+jonesborough_herald    Herald and tribune.                 ; TN jonesborough
+juniata_sentinel       Juniata sentinel and Republican.    ; PA mifflintown
+kennebec_journal       Daily Kennebec journal              ; ME augusta
+knoxville_chronicle    Knoxville daily chronicle.          ; TN knoxville
+knoxville_chronicle    Knoxville weekly chronicle.         ; TN knoxville
+knoxville_journal      Knoxville journal.                  ; TN knoxville
+la_daily_herald        Daily Los Angeles herald            ; CA los angeles
+la_daily_herald        Los Angeles daily herald            ; CA los angeles
+lake_charles_echo      The Lake Charles echo.              ; LA lake charles
+lamar_register         The Lamar register.
+lancaster_intelligencer Lancaster daily intelligencer.     ; PA lancaster
+litchfield_enquirer    Litchfield enquirer.
+lyon_county_times      Lyon County times.                  ; NV lyon county
+madison_state_journal  Madison Wisconsin State Journal     ; WI madison
+magnolia_gazette       The Magnolia gazette.               ; MS magnolia
+manitowoc_pilot        The Manitowoc pilot                 ; WI manitowoc
+mankato_free_press     The Mankato free press              ; MN mankato
+martinsburg_indep      Martinsburg independent             ; WV martinsburg
+memphis_daily_appeal   Memphis daily appeal.               ; TN tennessee
+memphis_public_ledger  Public ledger.                      ; TN memphis
+middletown_transceipt  Middletown transcript               ; DE middletown
+milan_exchange         The Milan exchange.                 ; TN milan
+mineral_point_tribune  Mineral Point tribune               ; WI mineral point
+morgan_republican      Martinsville Morgan County Republican;IN Martinsville
+morning_journal        Morning journal and courier.        ; CT new haven
+morristown_gazette     The Morristown gazette.             ; TN morristown
+mower_county_xscript   Mower County transcript             ; MN austin
+narragansett_herald    Narragansett herald                 ; RI narragansett pier
+nashville_union        Nashville union and American.       ; TN nashville
+national_republican    National Republican                 ; DC washington
+national_republican    National Republican.                ; DC washington
+nebraska_advertiser    Nebraska advertiser                 ; NE auburn
+new_york_herald        The New York herald.                ; NY new york
+new_york_sun           The sun.                            ; NY new york
 new_york_tribune       New-York tribune                    ; NY new york
 new_york_tribune       New-York tribune.                   ; NY new york
+newtown_bee            The Newtown bee.                    ; CT newtown
 nh_patriot             The People and New Hampshire patriot
-smyrna_times           Smyrna times
-stauntin_spectator     Staunton spectator
-indiana_sentinel       The Indiana State sentinel
-opelousas_courier      The Opelousas courier.
-portland_press         The Portland daily press
-centre_democrat        Centre Democrat.                    ; PA bellefonte
-willimantic_journal    The Willimantic journal
-nyt                    The New York Times                  ; NY new york
 no_republican          New Orleans Republican              ; LA new orleans
-daily_tribune          New York Daily Tribune              ; NY new york
-state_journal          The state journal.
-lamar_register         The Lamar register.
-arizona_central        The Arizona sentinel
-daily_globe            Daily globe                         ; MN saint paul
-oskaloosa_herald       The weekly Oskaloosa herald.
-litchfield_enquirer    Litchfield enquirer.
-washington_standard    Washington standard                 ; WA olympia
-morning_journal        Morning journal and courier.        ; CT new haven
-herald_and_mail        The herald and mail                 ; TN columbia
-daily_bee              Omaha daily bee                     ; NE omaha
-daily_intelligencer    The daily intelligencer             ; WA seattle
-corvallis_gazette      The Corvallis gazette               ; OR corvallis
-daily_astorian         The Daily Astorian                  ; OR astoria
-eureka_daily_sentinel  Eureka daily sentinel.              ; NV nevada
+northern_ohio_journal  Northern Ohio journal               ; OH columbus
+nyt                    The New York Times                  ; NY new york
 oakland_republican     The Republican.                     ; MD maryland
-daily_leader           The Cheyenne daily leader           ; WY cheyenne
-weekly_leader          Cheyenne Weekly leader              ; WY cheyenne
-lancaster_intelligencer Lancaster daily intelligencer.     ; PA lancaster
-county_paper           The County paper.                   ; MO oregon
-daily_republican       Daily Republican                    ; DE wilmington
-national_republican    National Republican.                ; DC washington
-national_republican    National Republican                 ; DC washington
-chillicothe_crisis     Weekly Chillicothe crisis.          ; MO chillicothe
-vermont_phoenix        "Vermont ph\u0153nix."              ; VT brattleboro
-evening_star           Evening star.                       ; DC washington
-evening_star           Evening star                        ; DC washington
-savannah_morning_news  Savannah morning news               ; GA georgia
-chicago_tribune        Chicago daily tribune.              ; IL chicago
-belleville_telescope   Belleville Telescope                ; KS belleville
-the_star               The Star                            ; OH cincinnati
-hawk_eye_gazette       Burlington Daily Hawk Eye Gazette   ; IA burlington
-baltimore_sun          Baltimore Sun                       ; MD baltimore
-geneseo_sun            Geneseo Sun                         ; IL geneseo
-colorado_springs_gaz   Colorado Springs Gazette            ; CO colorado springs
-cleveland_leader       The Cleveland Leader                ; OH cleveland
-morgan_republican      Martinsville Morgan County Republican;IN Martinsville
-indianapolis_news      Indianapolis News                   ; IN indianapolis
-cairo_bulletin         The Cairo bulletin                  ; IL cairo
-deseret_news           Salt Lake City Deseret News         ; UT salt lake city
-janesville_gazette     Janesville Gazette                  ; WI janesville
-philadelphia_times     Philadelphia Times                  ; PA philadelphia
-madison_state_journal  Madison Wisconsin State Journal     ; WI madison
-cincinnati_commercial  Cincinnati Commercial               ; OH cincinnati
-indianapolis_journal   Indianapolis Journal                ; IN indianapolis
-steubenville_herald    Steubenville Daily Herald and News  ; OH steubenville
-sandusky_register      Sandusky Daily Register             ; OH sandusky
 ogden_junction         Ogden Junction                      ; UT ogden
-boston_post            Boston Post                         ; MA boston
+opelousas_courier      The Opelousas courier.
+opelousas_journal      The Opelousas journal.              ; LA opelousas
+orangeburg_times       Orangeburg times                    ; SC orangeburg
+osceola_times          The Osceola times                   ; AR osceola
+oskaloosa_herald       The weekly Oskaloosa herald.
+ottawa_free_trader     The Ottawa free trader              ; IL ottawa
+pascagoula_star        The star of Pascagoula.             ; MS pascagoula
+perrysburg_journal     Perrysburg journal                  ; PH perrysburg
+philadelphia_times     Philadelphia Times                  ; PA philadelphia
+pioche_record          Pioche daily record.                ; NV pioche
+portland_press         The Portland daily press
+press_and_dakotaian    Daily press and Dakotaian           ; SD yankton
+puget_sound_argus      Puget Sound weekly Argus            ; WA port townsend
+puget_sound_dispatch   Puget Sound dispatch                ; WA seattle
 quincy_daily_herald    Quincy Daily Herald                 ; IL quincy
 quincy_daily_whig      Quincy Daily Whig                   ; IL quincy
-salt_lake_tribune      Salt Lake Daily Tribune             ; UT salt lake city
-chester_daily_times    Chester Daily Times                 ; PA chester
-alexandria_gazette     Alexandria gazette                  ; VA alexandria
-memphis_daily_appeal   Memphis daily appeal.               ; TN tennessee
-sunbury_american       Sunbury American.                   ; PA sunbury
-toledo_chronicle       The Toledo chronicle.               ; IA toledo
-aegis_intelligencer    The aegis & intelligencer.          ; MD bel air
-new_york_sun           The sun.                            ; NY new york
-sacramentio_union      Sacramento daily record-union       ; CA sacramento
-knoxville_chronicle    Knoxville daily chronicle.          ; TN knoxville
-eaton_democrat         Eaton weekly Democrat               ; OH eaton
-memphis_public_ledger  Public ledger.                      ; TN memphis
-york_working_christian The working Christian               ; SC york
-new_york_herald        The New York herald.                ; NY new york
-northern_ohio_journal  Northern Ohio journal               ; OH columbus
-rutland_daily_globe    The Rutland daily globe.            ; VT rutland
-worcester_daily_press  Worcester daily press               ; MA worcester
-superior_times         The Superior times                  ; WI superior
-wilmington_gazette     Wilmington daily gazette            ; DE wilmington
-gold_hill_news         Gold Hill daily news.               ; NV gold hill
-pioche_record          Pioche daily record.                ; NV pioche
-trinity_journal        Weekly Trinity journal              ; CA weaverville
-daily_argus            The Rock Island daily Argus         ; IL rock island
-carson_daily_appeal    Carson daily appeal.                ; NV carson city
-daily_phoenix          The daily phoenix                   ; SC columbia
-nashville_union        Nashville union and American.       ; TN nashville
-state_journal          The Daily state journal             ; VA richmond
-dodgeville_chronicle   Dodgeville chronicle                ; WI dodgeville
-democratic_statesman   The weekly democratic statesman     ; TX austin
-rutland_weekly_herald  Rutland weekly herald.              ; VT rutland
-puget_sound_dispatch   Puget Sound dispatch                ; WA seattle
-cambria_freeman        The Cambria freeman.                ; PA edensburg
-fremont_weekly_journal The Fremont weekly journal          ; OH fremont
-knoxville_chronicle    Knoxville weekly chronicle.         ; TN knoxville
-redwood_gazette        The Redwood gazette                 ; MN redwood falls
-centre_reporter        The Centre reporter.                ; PA pennsylvania
-perrysburg_journal     Perrysburg journal                  ; PH perrysburg
-connecticut_western    Connecticut western news.           ; CT north canaan
-fayette_county_herald  Fayette County herald               ; OH washington court house
-grant_county_herald    Grant County herald                 ; WI lancaster
-jasper_weekly_courier  The Jasper weekly courier           ; IN jasper
 ravenna_democratic     The Democratic press                ; OH ravenna
-ashtabula_telegraph    Ashtabula telegraph                 ; OH ashtabula
-knoxville_journal      Knoxville journal.                  ; TN knoxville
-lyon_county_times      Lyon County times.                  ; NV lyon county
-richmond_dispatch      The daily dispatch                  ; VA richmond
-milan_exchange         The Milan exchange.                 ; TN milan
-watertown_republican   Watertown republican                ; WI watertown
-orangeburg_times       Orangeburg times                    ; SC orangeburg
-holt_county_sentinel   The Holt County sentinel.           ; MO oregon
-albany_register        The Albany register                 ; OR albany
-bozeman_courier        Bozeman avant courier.              ; MT bozeman
-opelousas_journal      The Opelousas journal.              ; LA opelousas
-honolulu_advertiser    The Pacific commercial advertiser.  ; HI honolulu
-wilmington_gazette     The daily gazette                   ; DE wilmington
-south_branch_intell    South Branch intelligencer          ; WV south branch
-yorkville_enquirer     Yorkville enquirer                  ; SC york
-jonesborough_herald    Herald and tribune.                 ; TN jonesborough
-charlotte_democrat     The Charlotte Democrat              ; NC charlotte
-central_presbyterian   The central Presbyterian            ; VA richmond
-wilmington_herald      The Morning herald                  ; DE wilmington
-belmont_chronicle      Belmont chronicle                   ; OH saint clairsville
-la_daily_herald        Los Angeles daily herald            ; CA los angeles
-jackson_clarion        The weekly clarion.                 ; MS jackson
-nebraska_advertiser    Nebraska advertiser                 ; NE auburn
-findlay_jeffersonian   The Findlay Jeffersonian            ; OH findlay
-mineral_point_tribune  Mineral Point tribune               ; WI mineral point
-wood_country_reporter  Wood County reporter                ; WI wisconsin rapids
-bloomsburg_columbian   The Columbian.                      ; PA bloomsburg
-martinsburg_indep      Martinsburg independent             ; WV martinsburg
-kennebec_journal       Daily Kennebec journal              ; ME augusta
-shenandoah_herald      Shenandoah herald                   ; VA woodstock
-juniata_sentinel       Juniata sentinel and Republican.    ; PA mifflintown
-wood_river_advertiser  Wood River advertiser               ; RI hope valley
-hickman_courier        The Hickman courier.                ; KY hickman
-lake_charles_echo      The Lake Charles echo.              ; LA lake charles
-essex_county_herald    Essex County herald.                ; VT island pond
-weston_democrat        The Weston Democrat                 ; WV weston
-puget_sound_argus      Puget Sound weekly Argus            ; WA port townsend
-genevieve_fair_play    Fair play.                          ; MO sainte genevieve
-carson_city_appeal     Morning appeal.                     ; NV carson city
-bolivar_bulletin       The Bolivar bulletin.               ; TN bolivar
-columbus_democrat      Columbus Democrat.                  ; MS columbus
-pascagoula_star        The star of Pascagoula.             ; MS pascagoula
-osceola_times          The Osceola times                   ; AR osceola
-winchester_home_jour   The home journal.                   ; TN winchester
-ellsworth_american     Ellsworth American                  ; ME ellsworth
-dodge_city_times       Dodge City times.                   ; KS dodge city
-westminster_advocate   The Democratic advocate.            ; MD westminster
-saline_county_journal  The Saline County journal.          ; KS saline
-wheeling_intelligencer The Wheeling daily intelligencer    ; WV wheeling
-gloucester_democrat    Gloucester County Democrat          ; NJ woodbury
-elk_county_advocate    The Elk County advocate.            ; PA ridgway
-narragansett_herald    Narragansett herald                 ; RI narragansett pier
-southern_christian     Southern Christian advocate         ; GA augusta
-eaton_democrat         The Eaton Democrat                  ; OH eaton
-press_and_dakotaian    Daily press and Dakotaian           ; SD yankton
-abbeville_press        The Abbeville press and banner      ; SC abbeville
-jackson_standard       The Jackson standard                ; OH jackson
-concord_independent    Independent statesman               ; NH concord
-frostburg_mining       Frostburg mining journal.           ; MD frostburg
-magnolia_gazette       The Magnolia gazette.               ; MS magnolia
-morristown_gazette     The Morristown gazette.             ; TN morristown
-arizona_citizen        Weekly Arizona citizen              ; AZ tucson
-saint_marys_beacon     Saint Mary's beacon.                ; MD leonardtown
-newtown_bee            The Newtown bee.                    ; CT newtown
-mankato_free_press     The Mankato free press              ; MN mankato
-butte_weekly_miner     The weekly miner.                   ; MT butte
-salt_lake_herald       The Salt Lake herald.               ; UT salt lake
 red_cloud_chief        The Red Cloud chief                 ; NE red cloud
+redwood_gazette        The Redwood gazette                 ; MN redwood falls
+richmond_dispatch      The daily dispatch                  ; VA richmond
+rutland_daily_globe    The Rutland daily globe.            ; VT rutland
+rutland_weekly_herald  Rutland weekly herald.              ; VT rutland
+sacramentio_union      Sacramento daily record-union       ; CA sacramento
+saint_marys_beacon     Saint Mary's beacon.                ; MD leonardtown
+saline_county_journal  The Saline County journal.          ; KS saline
+salt_lake_herald       The Salt Lake herald.               ; UT salt lake
+salt_lake_tribune      Salt Lake Daily Tribune             ; UT salt lake city
+sandusky_register      Sandusky Daily Register             ; OH sandusky
+savannah_morning_news  Savannah morning news               ; GA georgia
+shenandoah_herald      Shenandoah herald                   ; VA woodstock
+smyrna_times           Smyrna times
+south_branch_intell    South Branch intelligencer          ; WV south branch
+southern_christian     Southern Christian advocate         ; GA augusta
+springfield_republican Springfield weekly Republican       ; MA springfield
+state_journal          The Daily state journal             ; VA richmond
+state_journal          The state journal.
+stauntin_spectator     Staunton spectator
+steubenville_herald    Steubenville Daily Herald and News  ; OH steubenville
+sunbury_american       Sunbury American.                   ; PA sunbury
+superior_times         The Superior times                  ; WI superior
+the_star               The Star                            ; OH cincinnati
+toledo_chronicle       The Toledo chronicle.               ; IA toledo
+trinity_journal        Weekly Trinity journal              ; CA weaverville
+vermont_phoenix        "Vermont ph\u0153nix."              ; VT brattleboro
+washington_standard    Washington standard                 ; WA olympia
+watertown_republican   Watertown republican                ; WI watertown
+weekly_leader          Cheyenne Weekly leader              ; WY cheyenne
+west_jersey_pioneer    West-Jersey pioneer                 ; NJ bridgeton
+westminster_advocate   The Democratic advocate.            ; MD westminster
+weston_democrat        The Weston Democrat                 ; WV weston
+wheeling_intelligencer The Wheeling daily intelligencer    ; WV wheeling
+willimantic_journal    The Willimantic journal
+wilmington_gazette     The daily gazette                   ; DE wilmington
+wilmington_gazette     Wilmington daily gazette            ; DE wilmington
+wilmington_herald      The Morning herald                  ; DE wilmington
+winchester_home_jour   The home journal.                   ; TN winchester
+wood_country_reporter  Wood County reporter                ; WI wisconsin rapids
+wood_river_advertiser  Wood River advertiser               ; RI hope valley
+worcester_daily_press  Worcester daily press               ; MA worcester
+worchester_spy         Worcester daily spy                 ; MA worcester
+york_working_christian The working Christian               ; SC york
+yorkville_enquirer     Yorkville enquirer                  ; SC york
+union_county_courier   Union County courier                ; SD elk point
+wellington_enterprise  The Wellington enterprise           ; OH wellington
+new_york_dispatch      New York dispatch                   ; NY new york
+morrisville_citizen    News and citizen.                   ; VT morrisville
+huntsville_gazette     Huntsville gazette                  ; AL huntsville
+maine_oxford_democrat  Oxford Democrat                     ; ME paris
+kentucky_bourbon_news  The Bourbon news.                   ; KY paris
+south_kentuckian       The south Kentuckian.               ; KY hopkinsville
+ironton_register       Iron County register.               ; MO ironton
+helena_herald          Helena weekly herald.               ; MT helena
+idaho_s_weekly_world   Idaho semi-weekly world             ; ID idaho city
+butte_s_weekly_miner   The semi-weekly miner.              ; MT butte
+pinal_drill            The Pinal drill                     ; AZ pinal
+maysville_bulletin     Evening bulletin.                   ; KY maysville
+somerset_press         The Somerset press                  ; OH somerset
+worthington_advance    The Worthington advance             ; MN worthington
+yale_expositor         Weekly expositor                    ; MI yale
+johnsbury_caledonian   St. Johnsbury Caledonian.           ; VT st johnsbury
+orleans_county_monitor Orleans County monitor.             ; VT barton
+barbour_county_index   Barbour County index.               ; KS medicine lodge
+pickens_sentinel       The Pickens sentinel                ; SC pickens
+dallas_herald          The Dallas daily herald             ; TX dallas
+emporia_weekly_news    The Emporia weekly news.            ; KS emporia
+monmouth_inquirer      The Monmouth inquirer               ; NJ freehold
+wood_river_times       Wood River times                    ; ID hailey
+albuquerque_journal    The Albuquerque morning journal.    ; NM albuquerque
+fairfield_herald       The Fairfield news and herald       ; SC winnsboro
+jamestown_alert        Jamestown weekly alert              ; ND jamestown
+pt_pleasant_register   The weekly register                 ; WV point pleasant
 
 
 == 1872 ======================================================================
@@ -852,6 +893,163 @@ auction of CEM articles
 yew fun tan on CEM
   1882-06-06-morning_journal.txt
 
+---
+student beheaded due to girlfriend
+  1882-01-09-sacramentio_union.txt
+  1882-01-10-morning_journal.txt
+  1882-01-10-daily_bee.txt
+  1882-01-10-salt_lake_herald.txt
+  1882-01-13-springfield_republican.txt
+  1882-01-14-dillon_tribune.txt
+  1882-01-14-ottawa_free_trader.txt
+  1882-01-14-savannah_morning_news.txt
+  1882-01-19-west_jersey_pioneer.txt
+  1882-01-19-dallas_herald.txt
+  1882-01-19-manitowoc_pilot.txt
+  1882-01-20-morning_journal.txt
+  1882-01-21-southern_christian.txt
+  1882-01-26-benton_record.txt
+  1882-01-27-middletown_transceipt.txt
+  1882-02-04-oakland_republican.txt
+  1882-02-11-oakland_republican.txt
+  1882-03-21-south_kentuckian.txt
+
+Beheading story false
+  1882-05-15-morning_journal.txt
+  1882-05-19-willimantic_journal.txt
+
+No govt students in US.  expecting more to be sent to other countries.
+  1882-01-11-mower_county_xscript.txt
+  1882-01-11-watertown_republican.txt
+  1882-01-14-superior_times.txt
+  1882-02-01-wellington_enterprise.txt
+
+Students confined on return
+  1882-01-11-daily_argus.txt
+  1882-01-12-cairo_bulletin.txt
+  1882-01-12-ravenna_democratic.txt
+  1882-01-18-kennebec_journal.txt
+  1882-01-25-la_daily_herald.txt
+  1882-01-25-sacramentio_union.txt
+  1882-01-29-arizona_citizen.txt
+  1882-02-01-connecticut_western.txt
+  1882-02-05-new_york_dispatch.txt
+  1882-02-16-morrisville_citizen.txt
+  1882-02-19-memphis_daily_appeal.txt
+  1882-02-23-daily_leader.txt
+  1882-02-24-springfield_republican.txt
+  1882-03-04-sacramentio_union.txt
+
+auction of CEM articles
+  1882-01-21-morning_journal.txt
+  1882-02-11-sacramentio_union.txt
+  1882-02-25-huntsville_gazette.txt
+  1882-03-17-kentucky_bourbon_news.txt
+  1882-05-27-pinal_drill.txt
+
+Students treated well on return
+  1882-01-26-savannah_morning_news.txt
+
+Student who murdered father beheaded
+  1882-02-01-union_county_courier.txt
+  1882-03-02-red_cloud_chief.txt
+
+Returned students working on telegraphy
+  1882-02-28-maine_oxford_democrat.txt
+
+Letter from students
+  1882-03-08-connecticut_western.txt
+  1882-03-23-morrisville_citizen.txt
+  1882-03-24-willimantic_journal.txt
+  1882-07-13-emporia_weekly_news.txt
+  1882-08-10-morning_journal.txt
+
+Treatment of returned students exemplifies bad motives of china
+  1882-03-22-memphis_daily_appeal.txt
+  1882-03-22-salt_lake_herald.txt
+  1882-03-29-jackson_clarion.txt
+  1882-03-29-watertown_republican.txt
+
+Recall related to students forgetting chinese
+  1882-03-23-ironton_register.txt
+  1882-03-29-wellington_enterprise.txt
+
+Govt wants to sent some students back to hartford
+  1882-03-24-vermont_phoenix.txt
+  1882-03-30-chillicothe_crisis.txt
+  1882-04-28-idaho_s_weekly_world.txt
+  1882-05-02-morning_journal.txt
+  1882-05-31-memphis_daily_appeal.txt
+  1882-06-01-morning_journal.txt
+  1882-06-07-connecticut_western.txt
+  1882-06-16-la_daily_herald.txt
+  1882-06-16-sacramentio_union.txt
+  1882-06-16-salt_lake_herald.txt
+  1882-06-17-maysville_bulletin.txt
+  1882-06-17-morning_journal.txt
+  1882-06-17-sacramentio_union.txt
+  1882-06-19-kennebec_journal.txt
+  1882-06-20-kentucky_bourbon_news.txt
+  1882-06-22-grant_county_herald.txt
+  1882-06-22-somerset_press.txt
+  1882-06-22-worthington_advance.txt
+  1882-06-22-yale_expositor.txt
+  1882-06-23-vermont_phoenix.txt
+  1882-06-23-johnsbury_caledonian.txt
+  1882-06-23-springfield_republican.txt
+  1882-06-28-connecticut_western.txt
+  1882-06-26-orleans_county_monitor.txt
+  1882-06-28-central_presbyterian.txt
+  1882-06-29-barbour_county_index.txt
+  1882-06-29-pickens_sentinel.txt
+  1882-07-04-daily_astorian.txt
+  1882-07-06-dallas_herald.txt
+
+Party/sectional standing on anti-chinese bill, related to knowlege of CEM
+  1882-04-06-helena_herald.txt
+  1882-04-07-gold_hill_news.txt
+
+Students to naval school; new students to Europe.
+  1882-04-15-memphis_public_ledger.txt
+  1882-04-21-savannah_morning_news.txt
+  1882-04-29-butte_s_weekly_miner.txt
+  1882-05-05-corvallis_gazette.txt
+
+Ethics investigation of Northrup, incl. receiving gifts for work with CEM students
+  1882-04-19-connecticut_western.txt
+  1882-07-08-morning_journal.txt
+
+Chinese official traveling on behalf of students
+  1882-05-11-chillicothe_crisis.txt
+
+Student returned to Yale
+  1882-05-11-ironton_register.txt
+
+Letter from student; beheading story false
+  1882-05-16-morning_journal.txt
+
+Students learned kissing
+  1882-09-07-monmouth_inquirer.txt
+
+China giving up on returning students due to anti-China laws
+  1882-09-15-daily_globe.txt
+  1882-09-15-springfield_republican.txt
+  1882-09-18-wood_river_times.txt
+  1882-09-27-memphis_daily_appeal.txt
+  1882-09-28-albuquerque_journal.txt
+  1882-09-28-emporia_weekly_news.txt
+  1882-10-25-fairfield_herald.txt
+
+Boy married involuntarily
+  1882-11-23-lancaster_intelligencer.txt
+  1882-11-23-evening_star.txt
+  1882-11-28-savannah_morning_news.txt
+  1882-12-01-dallas_herald.txt
+  1882-12-07-morrisville_citizen.txt
+  1882-12-08-barbour_county_index.txt
+  1882-12-08-daily_globe.txt
+  1882-12-15-jamestown_alert.txt
+  1882-12-27-pt_pleasant_register.txt
 
 == 1885 ======================================================================
 

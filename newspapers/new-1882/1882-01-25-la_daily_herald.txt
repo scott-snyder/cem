@@ -1,0 +1,17 @@
+Name: 1882-01-25-la_daily_herald.txt
+Date: 1882-01-25
+Paper: Daily Los Angeles herald
+Paperkey: la_daily_herald
+Page: 4
+City: los angeles
+State: CA california
+Url: http://www.loc.gov/resource/sn85042459/1882-01-25/ed-1/?sp=4
+Title: 
+Author: 
+---
+
+The Recalled Students.
+
+Chicago, Jan. 24 The Time's Hartford letters from the Chinese
+students, recently received, say they are treated as prisoners, but
+more freedom is expected soon.
