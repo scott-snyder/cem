@@ -1,0 +1,17 @@
+Name: 1872-12-21-gold_hill_news.txt
+Date: 1872-12-21
+Paper: Gold Hill daily news.
+Paperkey: gold_hill_news
+Page: 2
+City: gold hill
+State: NV nevada
+Url: http://www.loc.gov/resource/sn84022046/1872-12-21/ed-1/?sp=2
+Title: 
+Author: 
+---
+
+Charles Laisun, known at Hamilton College in 1847-8 as a a Chinese boy
+of eighteen, and a student preparing for military service, is reported
+by the Utica Herald as now visiting Clinton, N. Y. He now ranks as a
+second mandarin, and. with his wife, a Chinese lady, and three sons
+and three daughters will settle in Springfield, Mass.

@@ -1,0 +1,14 @@
+Name: 1872-09-20-worchester_spy.txt
+Date: 1872-09-20
+Paper: Worcester daily spy
+Paperkey: worchester_spy
+Page: 1
+City: worcester
+State: MA massachusetts
+Url: http://www.loc.gov/resource/sn83021205/1872-09-20/ed-1/?sp=1
+Title: 
+Author: 
+---
+
+Forty Chinese boy students left San Francisco Monday, overland, for
+New England.

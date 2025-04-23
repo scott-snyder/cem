@@ -1,0 +1,18 @@
+Name: 1872-11-18-new_york_herald-2.txt
+Date: 1872-11-18
+Paper: The New York herald.
+Paperkey: new_york_herald
+Page: 9
+City: new york
+State: NY new york
+Url: http://www.loc.gov/resource/sn83030313/1872-11-18/ed-1/?sp=9
+Title: 
+Author: 
+---
+
+Charles Laisun, well known to Auburnians at Hamilton College in 1847-8
+as a Chinese boy of eighteen and a student preparing for missionary
+service, is reported by the Utica Herald as now visiting at
+Clinton. He now ranks as a second mandarin, and, with his wife, a
+Chinese lady, and three sons and three daughters, will settle in
+Springfield, Mass.

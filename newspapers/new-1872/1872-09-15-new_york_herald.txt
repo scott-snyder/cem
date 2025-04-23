@@ -1,0 +1,19 @@
+Name: 1872-09-15-new_york_herald.txt
+Date: 1872-09-15
+Paper: The New York herald.
+Paperkey: new_york_herald
+Page: 10
+City: new york
+State: NY new york
+Url: http://www.loc.gov/resource/sn83030313/1872-09-15/ed-1/?sp=10
+Title: 
+Author: 
+---
+
+The thirty Chinese students who arrived yesterday are very young. They
+are fine, intelligent ladles and gentlemen and of much fairer
+complexion than any of their countrymen who have heretofore visited
+the United States. Three tutors of the mandarin rank accompany
+them. The Chinese government appropriated $1,000,000 for their
+education.  The design of the Chinese government is to send thirty
+students to this country annually.

@@ -1,0 +1,16 @@
+Name: 1872-09-15-new_orleans_republican.txt
+Date: 1872-09-15
+Paper: New Orleans Republican.
+Paperkey: new_orleans_republican
+Page: 1
+City: new orleans
+State: LA louisiana
+Url: http://www.loc.gov/resource/sn83016555/1872-09-15/ed-1/?sp=1
+Title: 
+Author: 
+---
+
+The thirty Chinese students who arrived yesterday are very young. They
+are very fine, intelligent lads, and gentlemen of much fairer
+complexion than any of their countrymen who have heretofore visited
+the United States.

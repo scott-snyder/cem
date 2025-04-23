@@ -28,6 +28,7 @@ centre_democrat        Centre Democrat.                    ; PA bellefonte
 centre_reporter        The Centre reporter.                ; PA pennsylvania
 charlotte_democrat     The Charlotte Democrat              ; NC charlotte
 chester_daily_times    Chester Daily Times                 ; PA chester
+chicago_tribune        Chicago tribune.                    ; IL chicago
 chicago_tribune        Chicago daily tribune.              ; IL chicago
 chillicothe_crisis     Weekly Chillicothe crisis.          ; MO chillicothe
 cincinnati_commercial  Cincinnati Commercial               ; OH cincinnati
@@ -218,6 +219,14 @@ albuquerque_journal    The Albuquerque morning journal.    ; NM albuquerque
 fairfield_herald       The Fairfield news and herald       ; SC winnsboro
 jamestown_alert        Jamestown weekly alert              ; ND jamestown
 pt_pleasant_register   The weekly register                 ; WV point pleasant
+andrew_republican      The Andrew County Republican.       ; MO savannah
+burlington_free_press  Burlington weekly free press.       ; VT burlington
+new_orleans_republican New Orleans Republican.             ; LA new orleans
+charleston_daily_news  The Charleston daily news           ; SC charleston
+orleans_morning_star   The morning star and Catholic messenger. ; LA new orleans
+st_cloud_journal       The St. Cloud journal              ; MN saint cloud
+green_mountain_freeman Green-Mountain freeman.            ; VT montpelier
+river_falls_journal    River Falls journal                ; WI river falls
 
 
 == 1872 ======================================================================
@@ -232,6 +241,80 @@ yung wing and cem
   1872-10-21-the_star.txt
   1872-12-11-hawaiian_gazette.txt *
 
+
+---
+Money appropriated to send students
+  1872-01-13-worchester_spy.txt
+  1872-01-29-gold_hill_news.txt
+  1872-02-09-albany_register.txt
+  1872-06-27-york_working_christian.txt
+
+Offensive poem about students coming to yale
+  1872-02-21-andrew_republican.txt
+
+Yung Wing bringing students to yale
+  1872-03-02-opelousas_journal.txt
+  1872-03-15-burlington_free_press.txt
+
+Students coming
+  1872-09-10-richmond_dispatch.txt
+  1872-09-11-alexandria_gazette.txt
+  1872-09-18-central_presbyterian.txt
+
+arrival; fair complexion
+  1872-09-13-gold_hill_news.txt
+  1872-09-14-alexandria_gazette.txt
+  1872-09-15-daily_phoenix.txt
+  1872-09-15-knoxville_chronicle.txt
+  1872-09-15-new_orleans_republican.txt
+  1872-09-15-new_york_herald.txt
+  1872-09-16-charleston_daily_news.txt
+  1872-09-16-richmond_dispatch.txt
+  1872-09-20-portland_press.txt
+  1872-10-02-green_mountain_freeman.txt
+
+arrival; religious precautions
+  1872-09-16-new_york_tribune.txt
+  1872-09-22-orleans_morning_star.txt
+  1872-09-24-charlotte_democrat.txt
+  1872-09-26-st_cloud_journal.txt
+  1872-10-04-river_falls_journal.txt
+
+arrival: passenger list
+  1872-09-13-new_york_tribune.txt
+
+students arrived
+  1872-09-13-new_york_sun.txt
+  1872-09-21-washington_standard.txt
+
+students traveling to new england
+  1872-09-14-gold_hill_news.txt
+  1872-09-15-daily_leader.txt
+  1872-09-19-nashville_union.txt
+  1872-09-19-wheeling_intelligencer.txt
+  1872-09-20-portland_press-2.txt
+  1872-09-20-worchester_spy.txt
+  1872-09-23-kennebec_journal.txt
+
+students in chicago; laisun family
+  1872-09-22-chicago_tribune.txt
+
+letter from northrup soliciting host families
+  1872-09-25-central_presbyterian.txt
+
+ladies molesting students' queues
+  1872-10-02-evening_star.txt
+  1872-10-06-new_york_herald.txt
+
+twenty-two students in CT; arrival in new haven
+  1872-10-17-litchfield_enquirer.txt
+  1872-10-26-superior_times.txt
+
+chen laisun bio
+  1872-11-15-worchester_spy.txt
+  1872-11-18-new_york_herald.txt
+  1872-11-18-new_york_herald-2.txt
+  1872-12-21-gold_hill_news.txt
 
 == 1873 ======================================================================
 

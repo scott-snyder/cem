@@ -1,0 +1,17 @@
+Name: 1872-09-13-gold_hill_news.txt
+Date: 1872-09-13
+Paper: Gold Hill daily news.
+Paperkey: gold_hill_news
+Page: 3
+City: gold hill
+State: NV nevada
+Url: http://www.loc.gov/resource/sn84022046/1872-09-13/ed-1/?sp=3
+Title: 
+Author: 
+---
+
+The Chinese students who arrived here yesterday to be educated in
+America, are evidently of a high class. They are much lighter
+complexloned than any of their countrymen here, far more delicate
+featured and intelligent looking and are richly dressed. They are
+mostly mere boys, but very refined and gentlemanly in manners.

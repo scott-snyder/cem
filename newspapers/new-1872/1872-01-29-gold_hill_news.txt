@@ -1,0 +1,16 @@
+Name: 1872-01-29-gold_hill_news.txt
+Date: 1872-01-29
+Paper: Gold Hill daily news.
+Paperkey: gold_hill_news
+Page: 2
+City: gold hill
+State: NV nevada
+Url: http://www.loc.gov/resource/sn84022046/1872-01-29/ed-1/?sp=2
+Title: 
+Author: 
+---
+
+The Hongkong papers say that the Chinese Government has devoted one
+million taels to send thirty students to Yale College, in New
+England. However this may be, they cannot have appropriated the
+enormous sum of £10,000 apiece.

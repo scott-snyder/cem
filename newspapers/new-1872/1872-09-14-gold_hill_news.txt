@@ -1,0 +1,14 @@
+Name: 1872-09-14-gold_hill_news.txt
+Date: 1872-09-14
+Paper: Gold Hill daily news.
+Paperkey: gold_hill_news
+Page: 3
+City: gold hill
+State: NV nevada
+Url: http://www.loc.gov/resource/sn84022046/1872-09-14/ed-1/?sp=3
+Title: 
+Author: 
+---
+
+The forty Chinese boy students leave at the same time for the New
+England States.

@@ -1,0 +1,19 @@
+Name: 1872-09-16-charleston_daily_news.txt
+Date: 1872-09-16
+Paper: The Charleston daily news
+Paperkey: charleston_daily_news
+Page: 1
+City: charleston
+State: SC south carolina
+Url: http://www.loc.gov/resource/sn84026994/1872-09-16/ed-1/?sp=1
+Title: 
+Author: 
+---
+
+-The thirty Chinese students who arrived at San Francisco on Saturday
+are very young.  They are fine, intelligent ladies and gentlemen, and
+of much fairer complexion than any of their countrymen who have
+heretofore visited the United States. Three tutors of Mandarin rank
+accompany them. The Chinese Government appropriated $1,000,000 for
+their education. The design of the Chinese Government is to send
+thirty students to this country annually.

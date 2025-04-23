@@ -1,0 +1,13 @@
+Name: 1872-09-20-portland_press-2.txt
+Date: 1872-09-20
+Paper: The Portland daily press
+Paperkey: portland_press
+Page: 3
+City: portland
+State: ME maine
+Url: http://www.loc.gov/resource/sn83016025/1872-09-20/ed-1/?sp=3
+Title: 
+Author: 
+---
+
+Forty Chinese boy students left San Francisco Monday for New England.

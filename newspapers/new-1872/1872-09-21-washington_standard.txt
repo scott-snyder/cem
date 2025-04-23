@@ -1,0 +1,14 @@
+Name: 1872-09-21-washington_standard.txt
+Date: 1872-09-21
+Paper: Washington standard
+Paperkey: washington_standard
+Page: 2
+City: olympia
+State: WA washington
+Url: http://www.loc.gov/resource/sn84022770/1872-09-21/ed-1/?sp=2
+Title: 
+Author: 
+---
+
+A number of Chinese students recently arrived at San Francisco, to be
+educated in this country.

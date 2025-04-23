@@ -1,0 +1,19 @@
+Name: 1872-09-15-knoxville_chronicle.txt
+Date: 1872-09-15
+Paper: Knoxville daily chronicle.
+Paperkey: knoxville_chronicle
+Page: 1
+City: knoxville
+State: TN tennessee
+Url: http://www.loc.gov/resource/sn85033437/1872-09-15/ed-1/?sp=1
+Title: 
+Author: 
+---
+
+The thirty Chinese students who arrived yesterday are very young. They
+are fine intelligent ladies and gentlemen and of much fairer
+complexion than any of their countrymen who have heretofore visited
+the United States. Three tutors are accompanying them. The Chinese
+Government appropriated one million dollars for their education. The
+design of the Chinese Government is to send thirty students to this
+country annually.

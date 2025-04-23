@@ -1,0 +1,16 @@
+Name: 1872-09-13-new_york_tribune.txt
+Date: 1872-09-13
+Paper: New-York tribune
+Paperkey: new_york_tribune
+Page: 7
+City: new york
+State: NY new york
+Url: http://www.loc.gov/resource/sn83030214/1872-09-13/ed-1/?sp=7
+Title: 
+Author: 
+---
+
+SAN FRANCISCO, Sept. 12.—The passenger list by the steamship Great
+Republic from China and Japan are, A. Garcia, C. Hasphin, Mrs. John
+Baker, Mrs. Chen Laisun and 2 children, Misses Lena and Anna Lusum,
+J. G. Paget, and 24 Chinese students.

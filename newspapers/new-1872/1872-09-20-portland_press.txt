@@ -1,0 +1,18 @@
+Name: 1872-09-20-portland_press.txt
+Date: 1872-09-20
+Paper: The Portland daily press
+Paperkey: portland_press
+Page: 1
+City: portland
+State: ME maine
+Url: http://www.loc.gov/resource/sn83016025/1872-09-20/ed-1/?sp=1
+Title: 
+Author: 
+---
+
+The thirty Chinese students coming here to be educated are described
+as ladies and gentlemen, very young and very fair, a sort of prize lot
+the like of which have never been here before. The Chinese government
+only allows the entire thirty one million of dollars for their
+education. They may squeeze through on $33,000 each, but it will
+require rigid economy.

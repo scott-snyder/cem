@@ -1,0 +1,15 @@
+Name: 1872-10-06-new_york_herald.txt
+Date: 1872-10-06
+Paper: The New York herald.
+Paperkey: new_york_herald
+Page: 8
+City: new york
+State: NY new york
+Url: http://www.loc.gov/resource/sn83030313/1872-10-06/ed-1/?sp=8
+Title: 
+Author: 
+---
+
+A New England lady was recently shown out of the dining room of the
+Chinese students in New Haven for examining too closely the young
+fellows' pigtails.
