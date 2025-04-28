@@ -1,0 +1,18 @@
+Name: 1881-07-29-savannah_morning_news.txt
+Date: 1881-07-29
+Paper: Savannah morning news
+Paperkey: savannah_morning_news
+Page: 1
+City: savannah
+State: GA georgia
+Url: http://www.loc.gov/resource/sn82015137/1881-07-29/ed-1/?sp=1
+Title: 
+Author: 
+---
+
+The Cheyenne Leader publishes a report of an interview with Tsu Soon
+Kee, an attache of the Chinese Legation at Washington, who says that
+the Chinese students withdrawn from America will be sent to England,
+France and Germany, and hereafter the Chinese Government "will educate
+students in Europe and also in China where military and naval schools
+are being established."

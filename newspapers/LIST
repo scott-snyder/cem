@@ -224,9 +224,36 @@ burlington_free_press  Burlington weekly free press.       ; VT burlington
 new_orleans_republican New Orleans Republican.             ; LA new orleans
 charleston_daily_news  The Charleston daily news           ; SC charleston
 orleans_morning_star   The morning star and Catholic messenger. ; LA new orleans
-st_cloud_journal       The St. Cloud journal              ; MN saint cloud
-green_mountain_freeman Green-Mountain freeman.            ; VT montpelier
-river_falls_journal    River Falls journal                ; WI river falls
+st_cloud_journal       The St. Cloud journal               ; MN saint cloud
+green_mountain_freeman Green-Mountain freeman.             ; VT montpelier
+river_falls_journal    River Falls journal                 ; WI river falls
+las_vegas_gazette      Las Vegas morning gazette.          ; NV las vegas
+las_vegas_gazette      Las Vegas daily gazette.            ; NV las vegas
+wheeling_register      Wheeling register                   ; WV wheeling
+pawpaw_true_northerner The true northerner                 ; MI pawpaw
+lake_county_star       The Lake County star                ; MI baldwin
+owosso_times           The Owosso times                    ; MI owosso
+elko_independent       The weekly Elko independent.        ; NV elko
+butler_citizen         Butler citizen.                     ; PA butler
+mount_holly_news       The semi-weekly news                ; NJ mount holly
+bloomfield_times       The New Bloomfield, Pa. times.      ; PA bloomfield
+canton_advocate        The Canton advocate                 ; SD south dakota
+iowa_county_democrat   Iowa County democrat                ; WI mineral point
+stanford_interial_jour The interior journal.               ; KY standford
+fremont_county_record  The Fremont County record           ; CO canon city
+washington_critic      The Evening critic                  ; DC washington
+canton_register        Canton register                     ; IL canton
+weekly_visitor         The weekly visitor                  ; RI providence
+columbus_journal       The Columbus journal                ; NE columbus
+princeton_union        The Princeton union                 ; MN princeton
+towanda_daily_review   Towanda daily review.               ; PA towanda
+russelville_democreat  The Russellville Democrat           ; AR russelville
+cleveland_herald       The weekly herald.                  ; TN cleveland
+sumpter_watchhman      The watchman and southron           ; SC sumpter
+iola_register          The Iola register.                  ; KS iola
+peoples_vindicator     The People's vindicator.            ; LA natchitoches
+mcminnville_standard   Southern standard.                  ; TN mcminnville
+silver_state           The Silver state.                   ; NV silver state
 
 
 == 1872 ======================================================================
@@ -964,6 +991,346 @@ kwong's dictionary
   1881-04-23-chicago_tribune.txt
   1881-08-26-springfield_republican-2.txt
 
+
+---
+Telegraphy school
+  1881-06-14-sacramentio_union.txt
+  1881-06-17-chicago_tribune.txt
+  1881-06-18-memphis_public_ledger.txt
+  1881-06-19-eureka_daily_sentinel.txt
+  1881-06-19-las_vegas_gazette.txt
+  1881-06-19-salt_lake_herald.txt
+  1881-06-20-sacramentio_union.txt
+  1881-06-27-morning_journal.txt
+  1881-06-30-kennebec_journal.txt
+  1881-06-30-wheeling_register.txt
+  1881-07-01-pawpaw_true_northerner.txt
+  1881-07-06-connecticut_western.txt
+  1881-07-09-narragansett_herald.txt
+  1881-07-14-elk_county_advocate.txt
+  1881-07-14-gloucester_democrat.txt
+  1881-07-27-abbeville_press.txt
+  1881-07-29-vermont_phoenix.txt
+  1881-08-06-pinal_drill.txt
+  1881-08-26-washington_standard.txt
+
+reasons for recall
+  1881-07-16-chicago_tribune.txt
+  1881-07-17-daily_leader.txt
+  1881-07-17-eureka_daily_sentinel.txt
+  1881-07-17-memphis_daily_appeal.txt
+  1881-07-17-salt_lake_herald.txt
+  1881-07-28-helena_herald.txt
+
+student education too liberal for chinese govt
+  1881-07-17-new_york_dispatch.txt
+  1881-07-22-savannah_morning_news.txt
+  1881-07-23-dillon_tribune.txt
+  1881-07-24-elko_independent.txt
+  1881-07-26-butte_weekly_miner.txt
+  1881-08-02-bloomfield_times.txt
+
+recall announcement
+  1881-07-16-las_vegas_gazette.txt
+  1881-07-16-morning_journal.txt
+  1881-07-17-daily_leader-2.txt
+  1881-07-17-daily_intelligencer.txt 
+  1881-07-22-corvallis_gazette.txt
+  1881-07-22-south_branch_intell.txt
+  1881-07-23-oakland_republican.txt
+
+recall because education too practical
+  1881-07-18-chicago_tribune.txt
+
+recall because students learn too much
+  1881-07-21-lake_county_star.txt
+  1881-07-22-owosso_times.txt
+
+students likely to be recalled
+  1881-07-22-springfield_republican.txt
+
+China must grow from within; perhaps recall is proper.
+  1881-07-27-butler_citizen.txt
+
+Interview with attache on train; students to be educated in Europe
+  1881-07-27-daily_leader.txt
+  1881-07-27-memphis_daily_appeal.txt
+  1881-07-27-lancaster_intelligencer.txt
+  1881-07-27-new_york_tribune.txt
+  1881-07-27-portland_press.txt
+  1881-07-27-sacramentio_union.txt
+  1881-07-27-daily_globe.txt
+  1881-07-27-salt_lake_herald.txt
+  1881-07-27-national_republican.txt
+  1881-07-27-daily_republican.txt
+  1881-07-27-wilmington_gazette.txt
+  1881-07-29-vermont_phoenix.txt
+  1881-07-29-savannah_morning_news.txt
+  1881-07-30-westminster_advocate.txt
+  1881-08-03-connecticut_western.txt
+  1881-08-04-canton_advocate.txt
+  1881-08-04-eaton_democrat.txt
+  1881-08-04-redwood_gazette.txt
+  1881-08-04-river_falls_journal.txt
+  1881-08-04-somerset_press.txt
+  1881-08-04-wood_country_reporter.txt
+  1881-08-05-iowa_county_democrat.txt
+  1881-08-05-owosso_times.txt
+  1881-08-05-stanford_interial_jour.txt
+  1881-08-06-fremont_county_record.txt
+
+Students to leave Hartford
+  1881-07-27-morning_journal.txt
+  1881-07-29-willimantic_journal.txt
+  1881-08-03-morning_journal.txt
+
+Students studying telephones, with offensive charactiture
+  1881-07-27-connecticut_western.txt
+
+CEM commissioner says students not being sent to europe
+  1881-07-28-kennebec_journal.txt
+  1881-07-28-portland_press.txt
+  1881-07-30-las_vegas_gazette.txt
+  1881-07-30-salt_lake_herald.txt
+  1881-08-01-mount_holly_news.txt
+  1881-08-02-stauntin_spectator.txt
+
+Interview with japanese consul
+  1881-07-29-national_republican.txt
+
+recall announcement w/mention of boys being americanized
+  1881-07-31-daily_leader.txt
+  1881-07-31-salt_lake_herald.txt
+  1881-08-02-portland_press.txt
+  1881-08-02-daily_intelligencer.txt
+  1881-08-05-corvallis_gazette.txt
+  1881-08-10-central_presbyterian-2.txt
+
+recall thought to be due to Europe trying to promote trade w/china
+  1881-08-01-savannah_morning_news.txt
+
+statement of American consul at Canton
+  1881-08-07-daily_leader.txt
+
+recall due to refusal to admit students to military academies; students may stay
+  1881-08-07-chicago_tribune.txt
+  1881-08-07-las_vegas_gazette.txt
+  1881-08-07-memphis_daily_appeal.txt
+  1881-08-08-wheeling_register.txt
+  1881-08-09-daily_leader.txt
+  1881-08-11-lake_county_star-2.txt
+  1881-08-11-helena_herald.txt
+  1881-08-12-corvallis_gazette.txt
+  1881-08-18-eaton_democrat.txt
+
+first group leaves hartford
+  1881-08-09-kennebec_journal.txt
+  1881-08-09-morning_journal.txt
+  1881-08-09-portland_press.txt
+  1881-08-09-daily_argus.txt
+  1881-08-09-sacramentio_union.txt
+  1881-08-09-national_republican.txt
+  1881-08-09-evening_star.txt
+  1881-08-09-wilmington_gazette.txt
+  1881-08-10-daily_leader.txt
+  1881-08-10-salt_lake_herald.txt
+  1881-08-10-washington_critic.txt
+  1881-08-12-canton_register.txt
+
+Chinese legation annoyed by rumors about students
+  1881-08-10-dallas_herald.txt
+  1881-08-11-dallas_herald.txt
+
+academic excellence of cem students
+  1881-08-10-central_presbyterian.txt
+  1881-08-11-lake_county_star.txt
+  1881-09-22-redwood_gazette.txt
+
+students en route home; not admitted to military academies; may go to europe
+  1881-08-10-daily_argus.txt
+  1881-08-11-eureka_daily_sentinel.txt
+  1881-08-11-lancaster_intelligencer.txt
+  1881-08-11-las_vegas_gazette.txt
+  1881-08-11-la_daily_herald.txt
+  1881-08-11-la_daily_herald-2.txt
+  1881-08-11-memphis_daily_appeal.txt
+  1881-08-11-salt_lake_herald.txt
+  1881-08-11-national_republican.txt
+  1881-08-11-evening_star.txt
+  1881-08-11-wheeling_register.txt
+  1881-08-11-daily_republican.txt
+  1881-08-11-wilmington_gazette.txt
+  1881-08-12-middletown_transceipt.txt
+  1881-08-12-sacramentio_union.txt
+  1881-08-13-sacramentio_union.txt
+  1881-08-13-daily_republican.txt
+  1881-08-17-columbus_journal.txt
+  1881-08-17-smyrna_times.txt
+  1881-08-18-emporia_weekly_news.txt
+  1881-08-18-princeton_union.txt
+  1881-08-18-somerset_press.txt
+  1881-08-25-russelville_democreat.txt
+
+New chinese legation; return not due to students being americanized
+  1881-08-11-daily_leader.txt
+  1881-08-11-sacramentio_union.txt
+  1881-08-24-juniata_sentinel.txt
+  1881-08-24-daily_republican.txt
+  1881-08-25-lake_county_star.txt
+  1881-08-25-canton_advocate.txt
+  1881-08-26-owosso_times.txt
+
+students en route
+  1881-08-11-daily_bee.txt
+  1881-08-12-sacramentio_union-2.txt
+  1881-08-15-sacramentio_union.txt
+  1881-08-16-sacramentio_union.txt
+  1881-08-17-salt_lake_herald.txt
+  1881-08-18-redwood_gazette.txt
+  1881-08-19-mankato_free_press.txt
+  1881-08-25-kennebec_journal.txt
+  1881-08-25-daily_leader.txt
+  1881-08-25-chicago_tribune.txt
+  1881-08-25-chicago_tribune-2.txt
+  1881-08-25-las_vegas_gazette.txt
+  1881-08-25-daily_bee.txt
+  1881-08-25-daily_bee-2.txt
+  1881-08-25-sacramentio_union.txt
+  1881-08-25-sacramentio_union-2.txt
+  1881-08-25-wilmington_gazette.txt
+  1881-08-26-daily_leader.txt
+  1881-08-26-daily_argus.txt
+  1881-08-26-sacramentio_union.txt
+  1881-08-26-sacramentio_union-2.txt
+  1881-08-27-daily_leader.txt
+  1881-08-27-daily_leader-2.txt
+  1881-08-27-daily_globe.txt
+  1881-08-29-kennebec_journal.txt
+  1881-08-29-sacramentio_union.txt
+  1881-08-31-morning_journal.txt
+  1881-09-01-concord_independent.txt
+  1881-09-01-wellington_enterprise.txt
+  1881-09-02-owosso_times.txt
+  1881-09-03-milan_exchange.txt
+  1881-09-08-sacramentio_union.txt
+  1881-09-20-morning_journal.txt
+
+order modified
+  1881-08-12-owosso_times.txt
+
+general Tso
+  1881-08-13-new_york_tribune.txt
+  1881-08-14-salt_lake_herald.txt
+
+favoring limits on immigration
+  1881-08-13-weekly_visitor.txt
+
+logistics for return
+  1881-08-14-daily_globe.txt
+
+students ordered to leave lafayette college
+  1881-08-17-lancaster_intelligencer.txt
+
+students recalled due to americanization
+  1881-08-18-new_york_sun.txt
+  1881-08-18-evening_star.txt
+  1881-08-19-wheeling_register.txt
+  1881-08-24-butler_citizen.txt
+  1881-08-26-cleveland_herald.txt
+
+returned students to work in telegraphy
+  1881-08-18-savannah_morning_news.txt
+  1881-08-19-weekly_visitor.txt
+  1881-08-20-national_republican.txt
+  1881-08-22-wilmington_gazette.txt
+  1881-08-30-memphis_public_ledger.txt
+
+students recalled because commissioner was homesick
+  1881-08-19-lancaster_intelligencer.txt
+
+rock island line
+  1881-08-20-ottawa_free_trader.txt
+
+new military academies being established
+  1881-08-23-towanda_daily_review.txt
+  1881-08-23-wheeling_register.txt
+
+recall due to change of ministers
+  1881-08-24-mower_county_xscript.txt
+  1881-08-25-evening_star.txt
+  1881-08-26-evening_star.txt
+
+kwong's dictionary
+  1881-08-26-springfield_republican.txt
+
+chinese students headed west, with offensive charactiture
+  1881-08-27-memphis_public_ledger.txt
+
+establishment of military academies symptomatic of decline of china
+  1881-08-27-memphis_daily_appeal.txt
+
+Blurb about NY herald article
+  1881-08-28-daily_leader.txt
+
+abolishment after bad report from Woo
+  1881-08-28-daily_leader-2.txt
+  1881-08-29-kennebec_journal-2.txt
+  1881-08-29-evening_star.txt
+  1881-09-01-redwood_gazette.txt
+  1881-09-24-pinal_drill.txt
+
+chinese students complain of leftovers
+  1881-08-30-lancaster_intelligencer.txt
+
+recall eliminates cheap competition for american students (satire?)
+  1881-08-30-sumpter_watchhman.txt
+
+competing offers to transport students across continent
+  1881-09-01-ironton_register.txt
+  1881-09-02-iola_register.txt
+  1881-09-10-peoples_vindicator.txt
+
+students arrived from america to france to complete education
+  1881-09-02-south_branch_intell.txt
+
+recall due to bas treatment of Chinese on west coast + americanization
+  1881-09-02-daily_republican.txt
+
+students changed religion
+  1881-09-15-gloucester_democrat.txt
+  1881-09-28-abbeville_press.txt
+
+recall due to the students complaining of not being served rat
+  1881-09-16-pawpaw_true_northerner.txt
+
+students to be offered professorships at new college in china
+  1881-09-16-daily_republican.txt
+  1881-09-24-oakland_republican.txt
+
+students in san francisco
+  1881-09-17-honolulu_advertiser.txt
+  1881-09-23-daily_argus.txt
+  1881-09-24-mcminnville_standard.txt
+  1881-09-30-jasper_weekly_courier.txt
+
+yung wing's feelings
+  1881-09-24-pinal_drill-2.txt
+
+recall entirely due to dissatisfaction with new treaty
+  1881-09-27-chicago_tribune.txt
+  1881-09-27-chicago_tribune-2.txt
+
+last group leaves hartford
+  1881-09-28-evening_star.txt
+  1881-09-29-sacramentio_union.txt
+  1881-09-30-springfield_republican.txt
+  1881-09-30-silver_state.txt
+
+editorial wishing chinese to leave; can do without students
+  1881-09-29-chicago_tribune.txt
+
+dog days
+  1881-09-30-bloomsburg_columbian.txt
 
 == 1882 ======================================================================
 

@@ -1,0 +1,15 @@
+Name: 1881-08-17-salt_lake_herald.txt
+Date: 1881-08-17
+Paper: The Salt Lake herald.
+Paperkey: salt_lake_herald
+Page: 8
+City: salt lake city
+State: UT utah
+Url: http://www.loc.gov/resource/sn85058130/1881-08-17/ed-1/?sp=8
+Title: 
+Author: 
+---
+
+The Chinese students who are being taken home because their government
+is afraid they will learn to like republican institutions passed
+through Ogden on Tuesday.

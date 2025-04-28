@@ -1,0 +1,26 @@
+Name: 1881-06-17-chicago_tribune.txt
+Date: 1881-06-17
+Paper: Chicago daily tribune.
+Paperkey: chicago_tribune
+Page: 4
+City: chicago
+State: IL illinois
+Url: http://www.loc.gov/resource/sn84031492/1881-06-17/ed-1/?sp=4
+Title: 
+Author: 
+---
+
+The Chinese Government has come to the conclusion that its telegraph
+lines might better be under its own management than in the hands of
+enterprising foreigners; and the preliminary steps to that end have
+been taken in the establishment of a school of telegraphy in Hartford.
+The Chinese Embassy at Washington recently received instructions to
+form a class of forty from among the Chinese students in Hartford, and
+Mr. Yung Wing has just chosen its members and placed them under the
+charge of Mr. Hubbell, late manager of the Hartford office of the
+Western Union Company. A class-room has been furnished with every
+requisit appliance, and Mr. Hubbell expects that within two months the
+students under his instruction will be competent to teach others. As
+soon as they have attained the requisit proficiency they will be
+ordered home, and probably accompanied by a few skilled Americans to
+superintend tho construction and operation of new telegraph lines.

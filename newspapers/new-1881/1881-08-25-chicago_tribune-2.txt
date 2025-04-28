@@ -1,0 +1,16 @@
+Name: 1881-08-25-chicago_tribune-2.txt
+Date: 1881-08-25
+Paper: Chicago daily tribune.
+Paperkey: chicago_tribune
+Page: 8
+City: chicago
+State: IL illinois
+Url: http://www.loc.gov/resource/sn84031492/1881-08-25/ed-1/?sp=8
+Title: 
+Author: 
+---
+
+Sixty of the Chinese students who are being educated by this
+Government at Hartford went west yesterday by the 12:05 p.m. train
+over the Rock Island Road. They travel in state, having special
+through Pullman sleeping coaches to San Francisco.

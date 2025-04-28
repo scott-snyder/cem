@@ -1,0 +1,14 @@
+Name: 1881-08-26-daily_leader.txt
+Date: 1881-08-26
+Paper: The Cheyenne daily leader
+Paperkey: daily_leader
+Page: 4
+City: cheyenne
+State: WY wyoming
+Url: http://www.loc.gov/resource/sn84022149/1881-08-26/ed-1/?sp=4
+Title: 
+Author: 
+---
+
+A party of sixty Chinese students will pass through this city to-day,
+en route for China, in accordance with their call.

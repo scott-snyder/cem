@@ -1,0 +1,15 @@
+Name: 1881-08-09-wilmington_gazette.txt
+Date: 1881-08-09
+Paper: The daily gazette
+Paperkey: wilmington_gazette
+Page: 4
+City: wilmington
+State: DE delaware
+Url: http://www.loc.gov/resource/sn82014805/1881-08-09/ed-1/?sp=4
+Title: 
+Author: 
+---
+
+The first party of Chinese students at Hartford, Connecticut, about
+twenty in number, left for home yesterday, by way of San
+Francisco. Others will soon follow, until all are gone.

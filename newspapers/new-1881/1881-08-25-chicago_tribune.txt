@@ -1,0 +1,17 @@
+Name: 1881-08-25-chicago_tribune.txt
+Date: 1881-08-25
+Paper: Chicago daily tribune.
+Paperkey: chicago_tribune
+Page: 6
+City: chicago
+State: IL illinois
+Url: http://www.loc.gov/resource/sn84031492/1881-08-25/ed-1/?sp=6
+Title: 
+Author: 
+---
+
+Sixty Chinese students arrived here yesterday by the Michigan
+Central. They have been studying in Eastern colleges, and are now on
+their way back to the Flowery Kingdom, having been called home by the
+Government. They went West last evening by the Rock Island route, and
+are traveling in special car.

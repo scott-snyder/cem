@@ -1,0 +1,20 @@
+Name: 1881-09-27-chicago_tribune-2.txt
+Date: 1881-09-27
+Paper: Chicago daily tribune.
+Paperkey: chicago_tribune
+Page: 2
+City: chicago
+State: IL illinois
+Url: http://www.loc.gov/resource/sn84031492/1881-09-27/ed-1/?sp=2
+Title: 
+Author: 
+---
+
+THE treaties concluded recently between America and China have been
+published in the latter country, and are not liked by the Chinese, who
+think the restriction on Chinese immigration shows an unfriendly
+spirit on the part of tho United States towards their country. The
+withdrawal of Chinese students from American colleges is solely
+ascribable to the ill-feeling thus created. The American merchants
+resident in China are displeased at the provision of the treaty having
+reference to the opium traffic.

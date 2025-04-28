@@ -1,0 +1,14 @@
+Name: 1881-08-25-las_vegas_gazette.txt
+Date: 1881-08-25
+Paper: Las Vegas daily gazette.
+Paperkey: las_vegas_gazette
+Page: 1
+City: las vegas
+State: NM new mexico
+Url: http://www.loc.gov/resource/sn90051703/1881-08-25/ed-1/?sp=1
+Title: 
+Author: 
+---
+
+Sixty Chinese students, from Hartford, bound west, passed through
+Chicago yesterday.

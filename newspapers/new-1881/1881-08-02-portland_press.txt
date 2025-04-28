@@ -1,0 +1,19 @@
+Name: 1881-08-02-portland_press.txt
+Date: 1881-08-02
+Paper: The Portland daily press
+Paperkey: portland_press
+Page: 1
+City: portland
+State: ME maine
+Url: http://www.loc.gov/resource/sn83016025/1881-08-02/ed-1/?sp=1
+Title: 
+Author: 
+---
+
+According to the Boston Journal the Chinese commissioner sent to this
+country to look after the Chinese students here "was greatly shocked
+to see how the spirit of our institutions had been caught up by the
+youths from China. They had in some instances disposed of their
+queues, and, with the exception of physiognomical peculiarities, they
+were to all intents and purposes Americans, without political
+privileges."

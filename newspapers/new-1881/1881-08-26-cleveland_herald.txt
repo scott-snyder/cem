@@ -1,0 +1,16 @@
+Name: 1881-08-26-cleveland_herald.txt
+Date: 1881-08-26
+Paper: The weekly herald.
+Paperkey: cleveland_herald
+Page: 2
+City: cleveland
+State: TN tennessee
+Url: http://www.loc.gov/resource/sn86053402/1881-08-26/ed-1/?sp=2
+Title: 
+Author: 
+---
+
+It now appears that the reason given by the Chinese Government for
+recalling the Chinese students in this country is that they have
+abandoned their national political views and religion and have become
+Americanized.

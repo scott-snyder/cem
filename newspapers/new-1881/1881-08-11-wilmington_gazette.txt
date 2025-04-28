@@ -1,0 +1,15 @@
+Name: 1881-08-11-wilmington_gazette.txt
+Date: 1881-08-11
+Paper: The daily gazette
+Paperkey: wilmington_gazette
+Page: 3
+City: wilmington
+State: DE delaware
+Url: http://www.loc.gov/resource/sn82014805/1881-08-11/ed-1/?sp=3
+Title: 
+Author: 
+---
+
+Germany allows Chinese students to enter her naval and military
+institutions. The young gentlemen en route homeward from this country
+say they have completed the studies for which they came here.

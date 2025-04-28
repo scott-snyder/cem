@@ -1,0 +1,14 @@
+Name: 1881-08-09-daily_leader.txt
+Date: 1881-08-09
+Paper: The Cheyenne daily leader
+Paperkey: daily_leader
+Page: 2
+City: cheyenne
+State: WY wyoming
+Url: http://www.loc.gov/resource/sn84022149/1881-08-09/ed-1/?sp=2
+Title: 
+Author: 
+---
+
+It is thought that the order removing Chinese students from American
+schools will be reconsidered by the Chinese government.

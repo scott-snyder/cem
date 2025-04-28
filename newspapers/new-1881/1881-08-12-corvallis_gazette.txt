@@ -1,0 +1,18 @@
+Name: 1881-08-12-corvallis_gazette.txt
+Date: 1881-08-12
+Paper: The Corvallis gazette
+Paperkey: corvallis_gazette
+Page: 2
+City: corvallis
+State: OR oregon
+Url: http://www.loc.gov/resource/sn84022650/1881-08-12/ed-1/?sp=2
+Title: 
+Author: 
+---
+
+The Post's Washington special says it is reported that instructions
+have been received from Chinese governments, modifying the original
+order for the return of the Chinese students in this country. There is
+a suspicion that the refusal of our government, to permit Chinese
+youth to attend our military schools in large numbers, had some thing
+to do with the recent action of the home government.

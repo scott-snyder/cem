@@ -1,0 +1,14 @@
+Name: 1881-08-25-wilmington_gazette.txt
+Date: 1881-08-25
+Paper: The daily gazette
+Paperkey: wilmington_gazette
+Page: 1
+City: wilmington
+State: DE delaware
+Url: http://www.loc.gov/resource/sn82014805/1881-08-25/ed-1/?sp=1
+Title: 
+Author: 
+---
+
+Sixty Chinese students, from Hartford, passed through Chicago
+yesterday on their way home.
