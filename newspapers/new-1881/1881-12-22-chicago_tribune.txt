@@ -1,0 +1,19 @@
+Name: 1881-12-22-chicago_tribune.txt
+Date: 1881-12-22
+Paper: Chicago daily tribune.
+Paperkey: chicago_tribune
+Page: 4
+City: chicago
+State: IL illinois
+Url: http://www.loc.gov/resource/sn84031492/1881-12-22/ed-1/?sp=4
+Title: 
+Author: 
+---
+
+Chin Tah Fay, a Chinese student in the family Of Mr. Charles Phelps,
+of Hebron, Conn., about two years ago was sent back to China by the
+Commissioners for general misconduct. A letter received a few days ago
+from one of his follow-students stated that Mr Chin had since his
+return to China displayed his ferocious disposition by murdering his
+father, for which act he has been beheaded. He was while in this
+country a terror to the family with which he lived.

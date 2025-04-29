@@ -1,0 +1,19 @@
+Name: 1881-10-06-chicago_tribune.txt
+Date: 1881-10-06
+Paper: Chicago daily tribune.
+Paperkey: chicago_tribune
+Page: 4
+City: chicago
+State: IL illinois
+Url: http://www.loc.gov/resource/sn84031492/1881-10-06/ed-1/?sp=4
+Title: 
+Author: 
+---
+
+Kin Ta Ting, one of the recalled Chinese students, has written a
+letter in which corroborates the story that Minister Chin Lan Pin sent
+home an adverse report, founded on Commissioner Woo's statements, and
+that the recall was owing wholly to that report. He says: "There can
+be no doubt butt that if the Minister at Washington had made a
+personal investigation of our standing for scholarship and conduct his
+report would have been different."

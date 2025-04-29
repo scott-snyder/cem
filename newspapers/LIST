@@ -254,6 +254,13 @@ iola_register          The Iola register.                  ; KS iola
 peoples_vindicator     The People's vindicator.            ; LA natchitoches
 mcminnville_standard   Southern standard.                  ; TN mcminnville
 silver_state           The Silver state.                   ; NV silver state
+st_landry_democrat     St. Landry democrat.                ; LA opelousas
+wedena_farmer          The Northern Pacific farmer         ; MN wadena
+tallahassee_floridian  The weekly Floridian.               ; FL tallahassee
+new_ulm_weekly_review  New Ulm weekly review               ; NM new ulm
+ouachita_telegraph     The Ouachita telegraph.             ; LA monroe
+greenville_courier     Baptist courier                     ; SC greenville
+brenham_weekly_banner  Brenham weekly banner               ; TX brenham
 
 
 == 1872 ======================================================================
@@ -1214,6 +1221,15 @@ students en route
   1881-09-03-milan_exchange.txt
   1881-09-08-sacramentio_union.txt
   1881-09-20-morning_journal.txt
+  1881-10-01-daily_leader.txt
+  1881-10-01-st_landry_democrat.txt  
+  1881-10-03-sacramentio_union.txt
+  1881-10-03-sacramentio_union-2.txt
+  1881-10-03-silver_state.txt
+  1881-10-06-chicago_tribune.txt
+  1881-11-09-new_ulm_weekly_review.txt
+  1881-11-11-daily_leader.txt
+  1881-11-11-ouachita_telegraph.txt
 
 order modified
   1881-08-12-owosso_times.txt
@@ -1244,6 +1260,7 @@ returned students to work in telegraphy
   1881-08-20-national_republican.txt
   1881-08-22-wilmington_gazette.txt
   1881-08-30-memphis_public_ledger.txt
+  1881-11-04-owosso_times.txt
 
 students recalled because commissioner was homesick
   1881-08-19-lancaster_intelligencer.txt
@@ -1278,6 +1295,8 @@ abolishment after bad report from Woo
   1881-08-29-evening_star.txt
   1881-09-01-redwood_gazette.txt
   1881-09-24-pinal_drill.txt
+  1881-10-02-daily_globe.txt
+  1881-10-14-washington_standard.txt
 
 chinese students complain of leftovers
   1881-08-30-lancaster_intelligencer.txt
@@ -1293,7 +1312,7 @@ competing offers to transport students across continent
 students arrived from america to france to complete education
   1881-09-02-south_branch_intell.txt
 
-recall due to bas treatment of Chinese on west coast + americanization
+recall due to bad treatment of Chinese on west coast + americanization
   1881-09-02-daily_republican.txt
 
 students changed religion
@@ -1325,12 +1344,59 @@ last group leaves hartford
   1881-09-29-sacramentio_union.txt
   1881-09-30-springfield_republican.txt
   1881-09-30-silver_state.txt
+  1881-09-30-silver_state.txt
+  1881-10-06-grant_county_herald.txt
+  1881-10-06-mineral_point_tribune.txt
+  1881-10-06-wedena_farmer.txt
+  1881-10-10-national_republican.txt
 
 editorial wishing chinese to leave; can do without students
   1881-09-29-chicago_tribune.txt
 
-dog days
+dog days (joke about eating dogs)
   1881-09-30-bloomsburg_columbian.txt
+  1881-10-10-national_republican.txt
+
+last student traveling west
+  1881-10-02-daily_leader.txt
+
+students prefer chinese food
+  1881-10-12-smyrna_times.txt
+
+recall due to conservative factions; hope Emperor dies soon.
+  1881-10-15-daily_astorian.txt
+
+letter from Chan Pan Fay
+  1881-11-02-morning_journal.txt
+
+students recalled due to learning bad habits
+  1881-11-04-middletown_transceipt.txt
+
+methodist college in shanghai to avoid problems of CEM
+  1881-11-19-southern_christian.txt
+
+arrival home of students, some confined
+  1881-11-22-morning_journal.txt
+  1881-11-29-savannah_morning_news.txt
+  1881-11-30-morning_journal.txt
+  1881-11-30-silver_state.txt
+  1881-12-02-carson_city_appeal.txt
+  1881-12-03-oakland_republican.txt
+  1881-12-23-cairo_bulletin.txt
+  1881-12-24-national_republican.txt
+
+students on ship back to china, singing my country 'tis of thee
+  1881-11-24-greenville_courier.txt
+
+chinese cologne
+  1881-12-21-morning_journal.txt
+
+Chin Tah Fay beheaded for murdering father
+  1881-12-22-chicago_tribune.txt
+  1881-12-22-litchfield_enquirer.txt
+
+recall due to anti-chinese sentiment
+  1881-12-29-brenham_weekly_banner.txt
 
 == 1882 ======================================================================
 
