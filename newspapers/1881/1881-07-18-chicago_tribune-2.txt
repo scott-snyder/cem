@@ -1,4 +1,4 @@
-Name: 1881-07-18-chicago_tribune.txt
+Name: 1881-07-18-chicago_tribune-2.txt
 Date: 1881-07-18
 Paper: Chicago daily tribune.
 Paperkey: chicago_tribune

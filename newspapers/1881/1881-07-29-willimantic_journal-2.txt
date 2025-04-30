@@ -1,4 +1,4 @@
-Name: 1881-07-29-willimantic_journal.txt
+Name: 1881-07-29-willimantic_journal-2.txt
 Date: 1881-07-29
 Paper: The Willimantic journal
 Paperkey: willimantic_journal
