@@ -5,7 +5,7 @@ abbeville_press        The Abbeville press and banner      ; SC abbeville
 aegis_intelligencer    The aegis & intelligencer.          ; MD bel air
 albany_register        The Albany register                 ; OR albany
 alexandria_gazette     Alexandria gazette                  ; VA alexandria
-arizona_central        The Arizona sentinel
+arizona_central        The Arizona sentinel                ; AZ yuma
 arizona_citizen        Arizona weekly citizen              ; AZ tucson
 arizona_citizen        Weekly Arizona citizen              ; AZ tucson
 ashtabula_telegraph    Ashtabula telegraph                 ; OH ashtabula
@@ -78,7 +78,7 @@ herald_and_mail        The herald and mail                 ; TN columbia
 hickman_courier        The Hickman courier.                ; KY hickman
 holt_county_sentinel   The Holt County sentinel.           ; MO oregon
 honolulu_advertiser    The Pacific commercial advertiser.  ; HI honolulu
-indiana_sentinel       The Indiana State sentinel
+indiana_sentinel       The Indiana State sentinel          ; IN indianapolis
 indianapolis_journal   Indianapolis Journal                ; IN indianapolis
 indianapolis_news      Indianapolis News                   ; IN indianapolis
 jackson_clarion        The weekly clarion.                 ; MS jackson
@@ -94,9 +94,9 @@ knoxville_journal      Knoxville journal.                  ; TN knoxville
 la_daily_herald        Daily Los Angeles herald            ; CA los angeles
 la_daily_herald        Los Angeles daily herald            ; CA los angeles
 lake_charles_echo      The Lake Charles echo.              ; LA lake charles
-lamar_register         The Lamar register.
+lamar_register         The Lamar register.                 ; CO lamar
 lancaster_intelligencer Lancaster daily intelligencer.     ; PA lancaster
-litchfield_enquirer    Litchfield enquirer.
+litchfield_enquirer    Litchfield enquirer.                ; CT litchfield
 lyon_county_times      Lyon County times.                  ; NV lyon county
 madison_state_journal  Madison Wisconsin State Journal     ; WI madison
 magnolia_gazette       The Magnolia gazette.               ; MS magnolia
@@ -122,23 +122,23 @@ new_york_sun           The sun.                            ; NY new york
 new_york_tribune       New-York tribune                    ; NY new york
 new_york_tribune       New-York tribune.                   ; NY new york
 newtown_bee            The Newtown bee.                    ; CT newtown
-nh_patriot             The People and New Hampshire patriot
+nh_patriot             The People and New Hampshire patriot ; NH concord
 no_republican          New Orleans Republican              ; LA new orleans
 northern_ohio_journal  Northern Ohio journal               ; OH columbus
 nyt                    The New York Times                  ; NY new york
 oakland_republican     The Republican.                     ; MD maryland
 ogden_junction         Ogden Junction                      ; UT ogden
-opelousas_courier      The Opelousas courier.
+opelousas_courier      The Opelousas courier.              ; LA opelousas
 opelousas_journal      The Opelousas journal.              ; LA opelousas
 orangeburg_times       Orangeburg times                    ; SC orangeburg
 osceola_times          The Osceola times                   ; AR osceola
-oskaloosa_herald       The weekly Oskaloosa herald.
+oskaloosa_herald       The weekly Oskaloosa herald.        ; IA oskaloosa
 ottawa_free_trader     The Ottawa free trader              ; IL ottawa
 pascagoula_star        The star of Pascagoula.             ; MS pascagoula
 perrysburg_journal     Perrysburg journal                  ; PH perrysburg
 philadelphia_times     Philadelphia Times                  ; PA philadelphia
 pioche_record          Pioche daily record.                ; NV pioche
-portland_press         The Portland daily press
+portland_press         The Portland daily press            ; ME portland
 press_and_dakotaian    Daily press and Dakotaian           ; SD yankton
 puget_sound_argus      Puget Sound weekly Argus            ; WA port townsend
 puget_sound_dispatch   Puget Sound dispatch                ; WA seattle
@@ -158,13 +158,13 @@ salt_lake_tribune      Salt Lake Daily Tribune             ; UT salt lake city
 sandusky_register      Sandusky Daily Register             ; OH sandusky
 savannah_morning_news  Savannah morning news               ; GA georgia
 shenandoah_herald      Shenandoah herald                   ; VA woodstock
-smyrna_times           Smyrna times
+smyrna_times           Smyrna times                        ; DE smyrna
 south_branch_intell    South Branch intelligencer          ; WV south branch
 southern_christian     Southern Christian advocate         ; GA augusta
 springfield_republican Springfield weekly Republican       ; MA springfield
 state_journal          The Daily state journal             ; VA richmond
-state_journal          The state journal.
-stauntin_spectator     Staunton spectator
+state_journal          The state journal.                  ; VA richmond
+stauntin_spectator     Staunton spectator                  ; VA stauntin
 steubenville_herald    Steubenville Daily Herald and News  ; OH steubenville
 sunbury_american       Sunbury American.                   ; PA sunbury
 superior_times         The Superior times                  ; WI superior
@@ -179,7 +179,7 @@ west_jersey_pioneer    West-Jersey pioneer                 ; NJ bridgeton
 westminster_advocate   The Democratic advocate.            ; MD westminster
 weston_democrat        The Weston Democrat                 ; WV weston
 wheeling_intelligencer The Wheeling daily intelligencer    ; WV wheeling
-willimantic_journal    The Willimantic journal
+willimantic_journal    The Willimantic journal             ; CT willimantic
 wilmington_gazette     The daily gazette                   ; DE wilmington
 wilmington_gazette     Wilmington daily gazette            ; DE wilmington
 wilmington_herald      The Morning herald                  ; DE wilmington
@@ -188,6 +188,7 @@ wood_country_reporter  Wood County reporter                ; WI wisconsin rapids
 wood_river_advertiser  Wood River advertiser               ; RI hope valley
 worcester_daily_press  Worcester daily press               ; MA worcester
 worchester_spy         Worcester daily spy                 ; MA worcester
+worcester_spy          Worcester daily spy                 ; MA worcester
 york_working_christian The working Christian               ; SC york
 yorkville_enquirer     Yorkville enquirer                  ; SC york
 union_county_courier   Union County courier                ; SD elk point
@@ -888,6 +889,10 @@ China is coming along
 
 == 1881 ======================================================================
 
+recall announcement w/regret
+  1881-07-15-daily_republican.txt   [28.9]
+  1881-07-15-chester_daily_times    [28.9]
+
 Kin Ta Ting on recall
   1881-10-20-morgan_republican.txt
   1881-09-30-boston_post.txt
@@ -909,7 +914,7 @@ Students studying telephones, with offensive charactiture
 
 CEM commissioner says students not being sent to europe
   1881-07-28-kennebec_journal.txt
-  1881-07-28-portland_press.txt
+  1881-07-28-portland_press.txt       [31.9]
   1881-07-30-las_vegas_gazette.txt
   1881-07-30-salt_lake_herald.txt
   1881-08-01-mount_holly_news.txt
@@ -992,7 +997,7 @@ students en route home; not admitted to military academies; may go to europe
   1881-08-25-russelville_democreat.txt
 
 New chinese legation; return not due to students being americanized
-  1881-08-11-daily_leader.txt
+  1881-08-11-daily_leader.txt         [36.9]
   1881-08-11-sacramentio_union.txt
   1881-08-24-juniata_sentinel.txt
   1881-08-24-daily_republican.txt
@@ -1113,7 +1118,7 @@ abolishment after bad report from Woo
   1881-10-14-washington_standard.txt
 
 chinese students complain of leftovers
-  1881-08-30-lancaster_intelligencer.txt
+  1881-08-30-lancaster_intelligencer.txt  [29.9]
 
 recall eliminates cheap competition for american students (satire?)
   1881-08-30-sumpter_watchhman.txt
@@ -1151,7 +1156,7 @@ yung wing's feelings
 
 recall entirely due to dissatisfaction with new treaty
   1881-09-27-chicago_tribune.txt
-  1881-09-27-chicago_tribune-2.txt
+  1881-09-27-chicago_tribune-2.txt               [25.0]
 
 last group leaves hartford
   1881-09-28-evening_star.txt

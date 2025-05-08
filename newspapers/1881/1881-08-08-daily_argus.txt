@@ -1,7 +1,7 @@
-Name: 1881-08-08-rock_island_argus.txt
+Name: 1881-08-08-daily_argus.txt
 Date: 1881-08-08
 Paper: The Rock Island Argus
-Paperkey: rock_island_argus
+Paperkey: daily_argus
 Page: 2
 City: rock island
 State: IL illinois

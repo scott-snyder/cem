@@ -1,7 +1,7 @@
-Name: 1873-05-20-worchester_daily_press.txt
+Name: 1873-05-20-worcester_daily_press.txt
 Date: 1873-05-20
 Paper: Worcester daily press
-Paperkey: worchester_daily_press
+Paperkey: worcester_daily_press
 Page: 1
 City: worcester
 State: MA massachusetts
