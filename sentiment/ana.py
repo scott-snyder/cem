@@ -19,7 +19,12 @@ if not 'style_loaded' in globals():
     ROOT.gROOT.LoadMacro (os.path.join (mydir, 'atlas-macros/AtlasLabels.C'))
     ROOT.gROOT.ProcessLine ("SetAtlasStyle();")
     ROOT.gStyle.SetErrorX (0)
+    ROOT.gStyle.SetPadTickX(0);
+    ROOT.gStyle.SetPadTickY(0);
     style_loaded = True
+
+    #xblue = ROOT.TColor (1300, 0.12, 0.46, 0.70, 'xblue')
+    xblue = ROOT.TColor (1301, 38/256, 152/256, 227/256, 'xblue')
 
 plt.ion()
 
@@ -128,6 +133,7 @@ class Articles (dict):
         sid = SentimentIntensityAnalyzer()
         for a in self.values():
             a.vader = sid.polarity_scores(a.text)
+            a.vader_scaled = self.scale(a.vader['compound'])
             a.vader_cat = self.cat (a.vader['compound'])
         return
 
@@ -325,22 +331,27 @@ def label_years(ax):
 def year_plot(t):
     nbins = maxyear - minyear + 1
     h = ROOT.TH1I ('year', 'year', nbins, minyear, maxyear+1)
+    h.SetFillColor(xblue.GetNumber())
     t.Project ('year', 'year', f'year>={minyear}&&year<={maxyear}')
     h.SetMinimum(0)
+    h.SetNdivisions(10, axis='Y')
     h.GetYaxis().SetTitle('Number of articles/year')
     h.GetYaxis().SetTitleOffset(1.1)
+    h.GetXaxis().SetLabelOffset(0.01)
     label_years (h.GetXaxis())
     h.GetXaxis().SetTitle('Article date')
     h.GetXaxis().SetLabelOffset(0.01)
     h.GetXaxis().SetTitleOffset(1.5)
-    h.LabelsOption('v', 'x')
+    h.SetLineWidth(0)
     h.Draw()
     printplot ('year_plot')
     return h
 
 def region_plot(t):
     h = ROOT.TH1I ('regions', 'regions', 4, 1, 5)
+    h.SetFillColor(xblue.GetNumber())
     t.Project ('regions', 'region', f'year>={minyear}&&year<={maxyear}')
+    h.SetNdivisions(10, axis='Y')
     h.SetMinimum(0)
     h.GetYaxis().SetTitle('Number of articles/region')
     h.GetYaxis().SetTitleOffset(1.1)
@@ -348,6 +359,7 @@ def region_plot(t):
     h.GetXaxis().SetTitle('Article region')
     h.GetXaxis().SetLabelOffset(0.01)
     h.GetXaxis().SetTitleOffset(1.5)
+    h.SetLineWidth(0)
     h.Draw()
     printplot ('region_plot')
     return h
@@ -356,7 +368,9 @@ def region_plot(t):
 def score_plot(t, nr = False):
     nrs = '_nr' if nr else ''
     h = ROOT.TH1I ('scores'+nrs, 'scores'+nrs, 5, -2, 3)
+    h.SetFillColor(xblue.GetNumber())
     h.Draw()
+    h.SetNdivisions(10, axis='Y')
     ROOT.gInterpreter.EndOfLineAction()
     c1 = ROOT.c1
     rm  = c1.GetRightMargin()
@@ -368,6 +382,7 @@ def score_plot(t, nr = False):
     label_cats(h.GetXaxis())
     h.GetXaxis().SetTitle('Article sentiment')
     h.GetXaxis().SetLabelOffset(0.01)
+    h.SetLineWidth(0)
     h.Draw()
     printplot ('score_plot'+nrs)
     ROOT.gInterpreter.EndOfLineAction()
@@ -391,7 +406,11 @@ def score_vs_region(t, nr = False):
     h.GetYaxis().SetTitleOffset(2)
     h.GetXaxis().SetTitle('Article region')
     h.SetMarkerSize(2)
-    h.Draw('BOX,TEXT')
+    #h.Draw('BOX,TEXT')
+    h.SetFillColor(xblue.GetNumber())
+    h.SetLineWidth(0)
+    h.Draw('VIOLINX(03000000)')
+    h.Draw('TEXT,SAME')
     printplot (f'score{nrs}_vs_region')
     ROOT.gInterpreter.EndOfLineAction()
     c1.SetLeftMargin(lm)
@@ -415,14 +434,55 @@ def score_vs_year(t, nr = False):
     h.GetYaxis().SetTitleOffset(2)
     h.GetXaxis().SetTitle('Article year')
     h.SetMarkerSize(2)
-    h.Draw('BOX,TEXT')
+    #h.Draw('BOX,TEXT')
+    h.SetFillColor(xblue.GetNumber())
+    h.SetLineWidth(0)
+    h.Draw('VIOLINX(03000000)')
+    h.Draw('TEXT,SAME')
     printplot (f'score{nrs}_vs_year')
     ROOT.gInterpreter.EndOfLineAction()
     c1.SetLeftMargin(lm)
     return h
 
 
-def mean_plot(t):
+#########################################################################
+
+
+def year_plot2():
+    fig, ax = plt.subplots()
+    ax.tick_params(direction='in')
+    ax.hist(df_years['year'],
+            bins=maxyear-minyear+1,
+            range=(minyear, maxyear+1))
+    ax.xaxis.set_minor_locator(matplotlib.ticker.AutoLocator())
+    ax.xaxis.set_minor_formatter(matplotlib.ticker.ScalarFormatter())
+    ax.xaxis.set_major_formatter(matplotlib.ticker.ScalarFormatter())
+
+    ax.locator_params(axis='x', steps=[1])
+    #ax.set_xlim ([minyear, maxyear+1])
+    #ax.set_ylabel ('Number of articles/year', loc='top')
+    #ax.set_xlabel ('Article year', loc='right')
+    #years, counts = np.unique (df_years['year'], return_counts=True)
+    #ax.bar (years, counts, width=1, align='edge')
+
+    return ax
+    nbins = maxyear - minyear + 1
+    h = ROOT.TH1I ('year', 'year', nbins, minyear, maxyear+1)
+    t.Project ('year', 'year', f'year>={minyear}&&year<={maxyear}')
+    h.SetMinimum(0)
+    h.GetYaxis().SetTitle('Number of articles/year')
+    h.GetYaxis().SetTitleOffset(1.1)
+    label_years (h.GetXaxis())
+    h.GetXaxis().SetTitle('Article date')
+    h.GetXaxis().SetLabelOffset(0.01)
+    h.GetXaxis().SetTitleOffset(1.5)
+    h.LabelsOption('v', 'x')
+    h.Draw()
+    printplot ('year_plot')
+    return h
+
+
+def mean_plot2():
     years = list (range(1872, 1883))
     means = [globals()[f'scores_{i}'].mean() for i in years]
     fig, ax = plt.subplots()
@@ -444,10 +504,13 @@ def all_plots(t):
     score_plot(t)
     score_vs_region(t)
     score_vs_year(t)
+
+    mean_plot2()
     return
 
 
 #########################################################################
+
 
 def cap_word (w):
     if w == 'New-York': return 'New York'
@@ -533,6 +596,32 @@ def write_org():
             icount += 1
         print (f'', file=f)
         pass
+    f.close()
+    return
+
+
+def write_org2(text = False):
+    papers = read_papers()
+    years = {}
+    arts = list (a.values())
+    arts.sort (key = lambda x: x.vader_scaled)
+    nm = 'articles3.org' if text else 'articles2.org'
+    f = open (nm, 'w')
+    icount = 1
+    for art in arts:
+        if art.year >= minyear and art.year <= maxyear:
+            title = art.title
+            if title:
+                if title[-1] == '.': title = title[:-1]
+                title = f'"{title}," '
+            url = f', [[{art.url}]]' if art.url else ''
+            page = f', {art.page}' if art.page else ''
+            print (f'      {icount}. [@{icount}]\\zwj {art.vader_scaled:4.1f} ={art.key}= {title}{format_paper(art, papers)} {format_date(art)}{page}{url}.', file=f)
+            if text:
+                print ('#+BEGIN_QUOTE', file=f)
+                f.write (art.text)
+                print ('#+END_QUOTE', file=f)
+            icount += 1
     f.close()
     return
 
